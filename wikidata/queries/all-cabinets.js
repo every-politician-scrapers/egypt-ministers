@@ -12,7 +12,9 @@ module.exports = function () {
                   ?replaces ?replacesLabel ?replacedBy ?replacedByLabel
                   ?follows ?followsLabel ?followedBy ?followedByLabel
   WHERE {
-    ?item wdt:P31/wdt:P279* wd:Q640506 ; wdt:P1001 wd:${meta.jurisdiction.id} .
+    { ?item wdt:P31 wd:${meta.cabinet.parent} } UNION
+    { ?item wdt:P31/wdt:P279* wd:Q640506 ; wdt:P1001 wd:${meta.jurisdiction.id} }
+
     OPTIONAL { ?item p:P31/pq:P1545 ?ordinal }
     OPTIONAL { ?item p:P571 [ a wikibase:BestRank ; psv:P571 [wikibase:timeValue ?inception ; wikibase:timePrecision ?inceptionPrecision] ] }
     OPTIONAL { ?item p:P580 [ a wikibase:BestRank ; psv:P580 [wikibase:timeValue ?startTime ; wikibase:timePrecision ?startTimePrecision] ] }
