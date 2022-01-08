@@ -1,0 +1,63 @@
+{
+  "title": "Mohammed Farid Hegazy",
+  "pageID": 63515026,
+  "categories": [
+    "Egyptian military officers",
+    "1954 births",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Lieutenant General Mohammed Farid Hegazy (born 1954) is the former Chief of Staff of the Egyptian Armed Forces.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lieutenant General"
+                },
+                {
+                  "text": "Chief of Staff of the Egyptian Armed Forces",
+                  "type": "internal",
+                  "page": "Chief of the General Staff (Egypt)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Mohammed Farid Hegazy"
+                ]
+              }
+            },
+            {
+              "text": "Previously he was Chief of Staff and then Commander of the Second Field Army (2010-2012), and then Secretary-General of the Ministry of Defence.",
+              "links": [
+                {
+                  "text": "Second Field Army",
+                  "type": "internal",
+                  "page": "Second Army (Egypt)"
+                }
+              ]
+            },
+            {
+              "text": "He served as Chief of Staff from 28 October 2017 to 27 October 2021."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Former Chief of Staff of the Egyptian Armed Forces",
+          "template": "short description"
+        },
+        {
+          "date": "April 2020",
+          "template": "expand arabic"
+        }
+      ]
+    }
+  ]
+}
