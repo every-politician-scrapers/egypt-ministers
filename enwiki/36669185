@@ -1,0 +1,182 @@
+{
+  "title": "Hisham Zazou",
+  "pageID": 36669185,
+  "categories": [
+    "1954 births",
+    "Living people",
+    "Ain Shams University alumni",
+    "Qandil Cabinet",
+    "Government ministers of Egypt",
+    "People of the Egyptian revolution of 2011",
+    "Beblawi Cabinet"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Hisham Zazou (هشام زعزوع; born 1954) is an Egyptian businessman and politician who is the former Egyptian minister of tourism.",
+              "formatting": {
+                "bold": [
+                  "Hisham Zazou"
+                ]
+              }
+            },
+            {
+              "text": "He was one of the ministers who are not affiliated with an Islamist party in the Qandil cabinet."
+            },
+            {
+              "text": "Zazou remained in his post in the interim government of Egypt, until he was replaced by Khaled Abbas Rami.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Khaled Abbas Rami"
+                }
+              ]
+            },
+            {
+              "text": "He was reappointed on 19 September 2015."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Egyptian politician",
+          "template": "short description"
+        },
+        {
+          "date": "July 2013",
+          "template": "use dmy dates"
+        },
+        {
+          "birth_year": "1954",
+          "template": "birth year and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Hisham Zaazou"
+          },
+          "image": {
+            "text": "Hisham Zaazou.jpg"
+          },
+          "office": {
+            "text": "Minister of Tourism",
+            "links": [
+              {
+                "text": "Minister of Tourism",
+                "type": "internal",
+                "page": "Ministry of Tourism (Egypt)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Sherif Ismail",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sherif Ismail"
+              }
+            ]
+          },
+          "president": {
+            "text": "Abdel Fattah el-Sisi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abdel Fattah el-Sisi"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "19 September 2015"
+          },
+          "predecessor": {
+            "text": "",
+            "links": [
+              {
+                "type": "internal",
+                "page": ""
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Hesham Qandil Hazem Al Beblawi Ibrahim Mahlab",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hesham Qandil"
+              },
+              {
+                "type": "internal",
+                "page": "Hazem Al Beblawi"
+              },
+              {
+                "type": "internal",
+                "page": "Ibrahim Mahlab"
+              }
+            ]
+          },
+          "president2": {
+            "text": "Mohamad Morsi Adly Mansour Abdel Fattah el-Sisi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mohamad Morsi"
+              },
+              {
+                "type": "internal",
+                "page": "Adly Mansour"
+              },
+              {
+                "type": "internal",
+                "page": "Abdel Fattah el-Sisi"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "2 August 2012"
+          },
+          "term_end2": {
+            "text": "5 March 2015"
+          },
+          "predecessor2": {
+            "text": "Mounir Fakhry Abdel Nour",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mounir Fakhry Abdel Nour"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Khaled Abbas Rami",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Khaled Abbas Rami"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "1954 (age 68)"
+          },
+          "alma_mater": {
+            "text": "Ain Shams University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ain Shams University"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
