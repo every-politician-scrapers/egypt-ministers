@@ -1,1 +1,31 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
+wdid,name,wdLabel,source,sourceDate,pid,position,start,psid
+Q110559019,Neveen El Kabaag,Neveen El Kabaag,,,Q110559012,Minister of Social Solidarity,2019-12-22,Q110559019-A9A0F304-185A-4EE0-9F46-A8547F79C147
+Q110559038,Mohamed Abdel-Aaty,Mohamed Abdel-Aaty,,,Q110559040,Minister of Water Resources and Irrigation,2018-07-07,Q110559038-4911CF31-8E00-447F-B9CF-112D9FC83531
+Q110559086,El-Said Marzouq El-Qosair,El-Said Marzouq El-Qosair,,,Q101070188,Agriculture Minister,2019-12-22,Q110559086-1A5B84D4-E38E-4E6A-85D6-20030F701EFA
+Q110559111,Neveen Gameea,Neveen Gameea,,,Q58717287,Minister of Industry and Foreign Trade,2019-12-22,Q110559111-965C9B7C-34CB-42B3-98A3-99DBE914CA07
+Q110559131,Hisham Tawfik,Hisham Tawfik,,,Q101070180,Minister of Public Works,2018-06-14,Q110559131-522BD2DD-C07E-48A2-91FD-456F2A488443
+Q110559196,Mohamed Manar,Mohamed Manar,,,Q110559156,Minister of Civil Aviation,2019-12-22,Q110559196-98180BF9-1316-4699-B269-8CCA3069393F
+Q110559305,Alaa Fouad Abo El Hasan,Alaa Fouad Abo El Hasan,,,Q110559306,Minister of Parliamentary Affairs,2019-12-22,Q110559305-B064963B-DF12-42AC-913F-9C0CB92A21EE
+Q16121307,Mukhtar Gomaa,Mukhtar Gomaa,,,Q89271310,Minister of Religious Endowment,2013-07-16,Q16121307-63eb7d92-41c5-9d2a-b7f9-05c5697aa841
+Q2032535,Osama Heikal,Osama Heikal,,,Q101070208,Minister of State for Information,2019-12-22,Q2032535-A91667BB-A14C-4AB3-9EC1-A2440EF67893
+Q20425623,Hala Helmy Al-Saeed,Hala Helmy Al-Saeed,,,Q110558878,Minister of Planning and Economic Development,2019-12-22,Q20425623-06EE595E-B7CA-44E6-A4FD-7EE9A1E8C95E
+Q22688588,Tarek El-Molla,Tarek El-Molla,,,Q110459065,Minister of Petroleum and Mineral Resources,2015-09-19,Q22688588-3134E10D-D073-4466-BA54-B62BAB654DB8
+Q22929983,Nabila Makram Abd El Shaheed,Nabila Makram Abd El Shaheed,,,Q110559339,Minister of Immigration and Expatriates Affairs,2015-09-09,Q22929983-1B042974-9584-48BC-91C8-4C5AE805B864
+Q23907945,Kamel El-Wazir,Kamel El-Wazir,,,Q101070189,Transport Minister,2019-03-11,Q23907945-ADE99D06-9A56-4D36-B099-F5C16E7E1851
+Q28715049,Khaled El-Enany,Khaled El-Enany,,,Q110459047,Minister of Tourism,2019-12-22,Q28715049-49BFD820-A4C0-4F75-B96E-D0F904773768
+Q28936391,Mohamed Saafan,Mohamed Saafan,,,Q110558972,Minister of Manpower and Emigration,2016-03-23,Q28936391-396E4483-7781-4793-AFDC-FBE1E69E7F63
+Q30081060,Rania Al-Mashat,Rania Al-Mashat,,,Q110459030,Minister of International Cooperation,2019-12-22,Q30081060-A06D005D-EE23-4770-A6E9-098B5B5DDF59
+Q37530705,Mohamed Shaker El-Markabi,Mohamed Shaker El-Markabi,,,Q110559279,Minister of Electricity and Renewable Energy,2014-03-01,Q37530705-E28C099A-423C-4235-BEB4-CAACDE015F52
+Q47161155,Khaled Abdel Ghaffar,Khaled Abdel Ghaffar,,,Q110558955,Minister of Higher Education and Scientific Research,2017-02-16,Q47161155-3120464A-120A-403D-ABCA-BFC932527896
+Q54901515,Moustafa Madbouly,Moustafa Madbouly,,,Q1571396,Prime Minister of Egypt,2018-06-14,Q54901515-9619894b-4ec1-7af8-370e-c2c94201874a
+Q55196900,Mohamed Ahmed Zaki,Mohamed Ahmed Zaki,,,Q101070178,Defense Minister,2018-06-14,Q55196900-B104FC46-C487-4456-89FE-B017EF0780BA
+Q55196920,Mahmoud Tawfik,Mahmoud Tawfik,,,Q101070176,Minister of the Interior,2018-06-14,Q55196920-BF8D822E-CF35-4358-B326-F39368834635
+Q55392139,Mohamed Maait,Mohamed Maait,,,Q98070786,Finance Minister,2018-06-14,Q55392139-db7207a7-4386-db16-b051-ac87a9eef42e
+Q55979650,Mahmoud Youssry Shaarawy,Mahmoud Youssry Shaarawy,,,Q110558850,Minister of Local Development,2018-06-14,Q55979650-C439CD96-A62D-485C-939F-AAEC3898A64D
+Q5772583,Hisham Zazou,Hisham Zazou,,,Q110459047,Minister of Tourism,2015-09-19,Q5772583-E807228C-2C0B-4116-9A9C-BE9D67143573
+Q60564405,Hala Mustafa Zaid,Hala Mustafa Zaid,,,Q101070195,Minister of Health,2018-06-14,Q60564405-CAE0A8B5-EDDB-4A9D-BFC5-5084B752CD92
+Q60564408,Yasmine Fouad,Yasmine Fouad,,,Q110558839,Minister of the Environment,2018-06-14,Q60564408-3FD7505C-3A50-4CB2-A15C-EAEFFB664B5D
+Q60836776,Ashraf Sobhy,Ashraf Sobhy,,,Q110559321,Minister of Youth and Sports,2018-06-14,Q60836776-4c0e00b6-4f40-fa6b-02f6-c1e7af8c24d4
+Q7409268,Sameh Shoukry,Sameh Shoukry,,,Q1162405,Minister of Foreign Affairs,2014-06-17,Q7409268-69598B0F-981A-4226-8618-984A73F7851A
+Q7685778,Tarek Shawki,Tarek Shawki,,,Q101070184,Minister of Education,2017-02-01,Q7685778-554297FD-E38F-425D-A05F-B22F3AF1D745
+Q85201850,Omar Marwan,Omar Marwan,,,Q101070174,Minister of Justice,2019-12-22,Q85201850-990F98DE-E39E-4889-8917-CC3D74592A3F

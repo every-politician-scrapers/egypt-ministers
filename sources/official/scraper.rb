@@ -7,17 +7,24 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('.name').text.tidy
+      tds[0].text.tidy
     end
 
     def position
-      noko.css('.position').text.tidy
+      # TODO: set the 'as of' as the start date
+      tds[1].text.tidy.gsub(/ \(?as of.*/, '')
+    end
+
+    private
+
+    def tds
+      noko.css('td')
     end
   end
 
   class Members
     def member_container
-      noko.css('.member')
+      noko.xpath('//table[1]//tr[td]')
     end
   end
 end
