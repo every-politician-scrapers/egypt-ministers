@@ -1,20 +1,20 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+        "name": "Egypt",
+        "id": "Q79"
     },
     "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
+        "id": "Q54869459",
+        "start": "2018-07-07",
+        "parent": "Q4206677"
     },
     "source": {
-        "url":   "XXX",
-        "title": "XXX",
+        "url":   "https://www.sis.gov.eg/section/210/1140?lang=en-us",
+        "title": "Cabinet Lineup-SIS",
         "lang":  {
             "code": "en",
             "wikidata": "Q1860"
         }
     },
-    "agent": "every-politican-scrapers/XXX"
+    "agent": "every-politican-scrapers/egypt-ministers"
 }
