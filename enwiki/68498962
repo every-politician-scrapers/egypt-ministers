@@ -1,0 +1,231 @@
+{
+  "title": "Hanafy El Gebaly",
+  "pageID": 68498962,
+  "categories": [
+    "1949 births",
+    "Living people",
+    "People from Cairo",
+    "Ain Shams University faculty",
+    "Members of the House of Representatives (Egypt)",
+    "Scholars of constitutional law",
+    "Egyptian judges",
+    "Speakers of the Parliament of Egypt",
+    "Cairo University alumni",
+    "Ain Shams University alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Hanafy Ali El-Gebali is a member of the Egyptian parliament of the House of Representatives since October 2020.",
+              "links": [
+                {
+                  "text": "Egyptian parliament",
+                  "type": "internal",
+                  "page": "Parliament of Egypt"
+                },
+                {
+                  "text": "House of Representatives",
+                  "type": "internal",
+                  "page": "House of Representatives (Egypt)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Hanafy Ali El-Gebali"
+                ]
+              }
+            },
+            {
+              "text": "He was elected as the Speaker of the House of Representatives in 12 January 2021.",
+              "links": [
+                {
+                  "text": "Speaker of the House of Representatives",
+                  "type": "internal",
+                  "page": "Speaker of the House of Representatives (Egypt)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "El-Gebali previously served as chief justice of the Supreme Constitutional Court."
+            },
+            {
+              "text": "He was born 14 July 1949 in Cairo, Egypt,",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cairo"
+                },
+                {
+                  "type": "internal",
+                  "page": "Egypt"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He graduated from Cairo University in 1975 and got a post diploma from the Ain Shams University in 1977 in criminal law, he holds a master's PhD of Constitutional law.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cairo University"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ain Shams University"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He started working in the judicial department and rose to become the deputy Attorney General in 1978 before he was moved down to Constitutional Court at State Council in 2001 as member and became the deputy judge in 2005.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "State Council"
+                }
+              ]
+            },
+            {
+              "text": "He also served as a secretary-general of the Union of Arab Constitutional Courts which was from 2011– 2018."
+            },
+            {
+              "text": "He retired in the judicial board in 2019 and joined the Parliament after serving as the chief of Supreme Constitutional Court in 2019.",
+              "links": [
+                {
+                  "text": "Supreme Constitutional Court",
+                  "type": "internal",
+                  "page": "Supreme Constitutional Court (Egypt)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Egyptian judge and politician",
+          "template": "short description"
+        },
+        {
+          "date": "August 2021",
+          "template": "copy edit"
+        },
+        {
+          "year": "1949",
+          "month": "7",
+          "day": "14",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Hanafy Ali El-Gebali"
+          },
+          "party": {
+            "text": "Independent politician"
+          },
+          "office1": {
+            "text": "Chief Justice of the Supreme Constitutional Court",
+            "links": [
+              {
+                "text": "Supreme Constitutional Court",
+                "type": "internal",
+                "page": "Supreme Constitutional Court (Egypt)"
+              }
+            ]
+          },
+          "office": {
+            "text": "Speaker of the House of Representatives",
+            "links": [
+              {
+                "text": "Speaker of the House of Representatives",
+                "type": "internal",
+                "page": "Speaker of the House of Representatives (Egypt)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "12 January 2021"
+          },
+          "predecessor": {
+            "text": "Ali Abdel Aal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ali Abdel Aal"
+              }
+            ]
+          },
+          "status1": {
+            "text": "Chancellor"
+          },
+          "term_start1": {
+            "text": "March 2018"
+          },
+          "term_end1": {
+            "text": "June 2019"
+          },
+          "predecessor1": {
+            "text": "Abdel-Wahab Abdel-Razeq",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abdel-Wahab Abdel-Razeq"
+              }
+            ]
+          },
+          "deputy": {
+            "text": "Mohamed M. Abou El Enein, Ahmed Saad Eddine",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mohamed M. Abou El Enein"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "July 14, 1949"
+          },
+          "birth_place": {
+            "text": "Cairo, Egypt"
+          },
+          "alma_mater": {
+            "text": "Cairo University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cairo University"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Saeed Marie",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Saeed Marie"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

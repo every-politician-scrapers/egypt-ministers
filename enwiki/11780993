@@ -1,0 +1,407 @@
+{
+  "title": "Gouvernement Madbouli",
+  "pageID": 11780993,
+  "categories": [
+    "Gouvernement de l'Égypte",
+    "Gouvernement en fonction en Afrique"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Le gouvernement Mostafa Madbouli est le gouvernement égyptien entré en fonction le 14 juin 2018.",
+              "links": [
+                {
+                  "text": "gouvernement égyptien",
+                  "type": "internal",
+                  "page": "politique en Égypte"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "gouvernement Mostafa Madbouli"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Égypte",
+            "politique"
+          ],
+          "template": "ébauche"
+        }
+      ],
+      "infoboxes": [
+        {
+          "nom": {
+            "text": "Gouvernement Mostafa Madbouli"
+          },
+          "régime": {
+            "text": "République arabe d'Égypte",
+            "links": [
+              {
+                "type": "internal",
+                "page": "République arabe d'Égypte"
+              }
+            ]
+          },
+          "titre chef": {
+            "text": "Premier ministre",
+            "links": [
+              {
+                "text": "Premier ministre",
+                "type": "internal",
+                "page": "Premiers ministres d'Égypte"
+              }
+            ]
+          },
+          "chef": {
+            "text": "Mostafa Madbouli",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mostafa Madbouli"
+              }
+            ]
+          },
+          "début": {
+            "text": "14-6-2018"
+          },
+          "pays": {
+            "text": "Égypte"
+          },
+          "précédent": {
+            "text": "Ismaïl",
+            "links": [
+              {
+                "text": "Ismaïl",
+                "type": "internal",
+                "page": "Gouvernement Ismaïl"
+              }
+            ]
+          },
+          "ministres": {
+            "text": "33",
+            "number": 33
+          },
+          "hommes": {
+            "text": "25",
+            "number": 25
+          },
+          "femmes": {
+            "text": "8",
+            "number": 8
+          }
+        }
+      ]
+    },
+    {
+      "title": "Historique",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Le gouvernement, formé le à l'occasion de la réélection à la présidentielle du maréchal Sissi, se compose de 33 ministres, dont 8 femmes, un record.",
+              "links": [
+                {
+                  "text": "maréchal Sissi",
+                  "type": "internal",
+                  "page": "maréchal Sissi"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "C'est un gouvernement de techniciens, dans la lignée du précédent, mais la nomination aux postes clés de l'Intérieur et de la Défense d'hommes de confiance fait dire aux analystes politiques (Issandr Al-Amrani de l’International Crisis Group) au moment de sa formation que le gouvernement doit permettre au maréchal-président d'assurer la perpétuation de son pouvoir, en permettant de modifier la constitution pour permettre sa réélection.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "International Crisis Group"
+                }
+              ]
+            },
+            {
+              "text": "Le limogeage de plusieurs hauts gradés avant le remaniement, et le remplacement du général Sedki Sobhi par Mohamed Zaki sont des signaux forts envoyés à l'armée pour empêcher tout lâchage de l'institution envers le président, comme ce fut le cas avec Hosni Moubarak.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sedki Sobhi"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mohamed Zaki"
+                },
+                {
+                  "type": "internal",
+                  "page": "Hosni Moubarak"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "14 juin 2018"
+          ],
+          "template": "date-"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Composition",
+      "depth": 1
+    },
+    {
+      "title": "Premier ministre",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Premier ministre : Mostafa Madbouli",
+            "links": [
+              {
+                "text": "Premier ministre",
+                "type": "internal",
+                "page": "Liste des Premiers ministres d'Égypte"
+              },
+              {
+                "type": "internal",
+                "page": "Mostafa Madbouli"
+              }
+            ],
+            "formatting": {
+              "bold": [
+                "Mostafa Madbouli"
+              ]
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Autres ministres",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "..."
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Ministre de la Défense : Mohamed Zaki. Il était responsable de la Garde républicaine depuis 2012 et a procédé à l'arrestation de Mohamed Morsi. C'est un proche de Sissi.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mohamed Zaki"
+              },
+              {
+                "type": "internal",
+                "page": "Mohamed Morsi"
+              },
+              {
+                "text": "Sissi",
+                "type": "internal",
+                "page": "Abdel Fattah al-Sissi"
+              }
+            ]
+          },
+          {
+            "text": "Ministre de l'Intérieur : Mahmoud Tawfik, anciennement à la tête de la puissante Agence de sécurité nationale, chargée du renseignement intérieur.",
+            "links": [
+              {
+                "text": "Ministre de l'Intérieur",
+                "type": "internal",
+                "page": "Ministère de l'Intérieur (Égypte)"
+              },
+              {
+                "type": "internal",
+                "page": "Mahmoud Tawfik"
+              }
+            ]
+          },
+          {
+            "text": "Ministre des Affaires étrangères : Sameh Choukri (inchangé)",
+            "links": [
+              {
+                "text": "Ministre des Affaires étrangères",
+                "type": "internal",
+                "page": "Ministère des Affaires étrangères (Égypte)"
+              },
+              {
+                "type": "internal",
+                "page": "Sameh Choukri"
+              }
+            ]
+          },
+          {
+            "text": "Ministre des Finances : Mohamed Maait",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mohamed Maait"
+              }
+            ]
+          },
+          {
+            "text": "Ministre de la Culture : Dr Inas Abdel Dayam",
+            "links": [
+              {
+                "text": "Ministre de la Culture",
+                "type": "internal",
+                "page": "Ministère de la Culture (Égypte)"
+              }
+            ]
+          },
+          {
+            "text": "Ministre de la Justice : Mohamed Hossam (inchangé)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mohamed Hossam"
+              }
+            ]
+          },
+          {
+            "text": "Ministre du Commerce et de l'Industrie : Amr Adel Bayoumi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Amr Adel Bayoumi"
+              }
+            ]
+          },
+          {
+            "text": "Ministre du Logement et du Développement urbain : Mostafa Madbouli",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mostafa Madbouli"
+              }
+            ]
+          },
+          {
+            "text": "Ministre du Pétrole et des Ressources minerales : Tarek al-Moulla (inchangé)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tarek al-Moulla"
+              }
+            ]
+          },
+          {
+            "text": "Ministre de l'Aviation civile : Mohamed Younes El-Masri",
+            "links": [
+              {
+                "text": "Ministre de l'Aviation civile",
+                "type": "internal",
+                "page": "Ministère de l'Aviation civile (Égypte)"
+              }
+            ]
+          },
+          {
+            "text": "Ministre des Wakfs : Dr Mohamed Mokhtar Gomaa."
+          },
+          {
+            "text": "Ministre de l’Electricité et de l’énergie : Dr Mohamed Ahmed Chaker.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mohamed Ahmed Chaker"
+              }
+            ]
+          },
+          {
+            "text": "Ministre de la Solidarité sociale : Ghada Wali.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ghada Wali"
+              }
+            ]
+          },
+          {
+            "text": "Ministre de la Production militaire : Mohamed Saïd El-Assar."
+          },
+          {
+            "text": "Ministre de l’Investissement et de la coopération internationale : Dr Sahar Nasr.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sahar Nasr"
+              }
+            ]
+          }
+        ]
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Notes et références",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "références"
+        },
+        {
+          "list": [
+            "Gouvernements de l'Égypte"
+          ],
+          "template": "palette"
+        },
+        {
+          "list": [
+            "Politique",
+            "Égypte"
+          ],
+          "template": "portail"
+        }
+      ]
+    }
+  ]
+}
