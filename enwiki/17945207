@@ -1,0 +1,603 @@
+{
+  "title": "Ministry of Agriculture and Land Reclamation (Egypt)",
+  "pageID": 17945207,
+  "categories": [
+    "1913 establishments in Egypt",
+    "Ministries established in 1913",
+    "Agriculture ministries",
+    "Land management ministries",
+    "Government ministries of Egypt",
+    "Agricultural organisations based in Egypt"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The Ministry of Agriculture and Land Reclamation of Egypt is a ministerial body in charge of agriculture and land reclamation in Egypt.",
+              "links": [
+                {
+                  "text": "agriculture",
+                  "type": "internal",
+                  "page": "agriculture"
+                },
+                {
+                  "text": "land reclamation",
+                  "type": "internal",
+                  "page": "land reclamation"
+                },
+                {
+                  "type": "internal",
+                  "page": "Egypt"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ministry of Agriculture and Land Reclamation of Egypt"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "display": "title",
+          "template": "coord",
+          "lat": 30.04306,
+          "lon": 31.20972
+        },
+        {
+          "list": [
+            "http://www.agr-egypt.gov.eg"
+          ],
+          "template": "official website"
+        }
+      ],
+      "infoboxes": [
+        {
+          "agency_name": {
+            "text": "Arab Republic of Egypt Ministry of Agriculture and Land Reclamation"
+          },
+          "nativename": {
+            "text": "وزارة الزراعة وإستصلاح الأراضي"
+          },
+          "logo": {
+            "text": "Coat of arms of Egypt (Official).svg"
+          },
+          "logo_width": {
+            "text": "150px"
+          },
+          "logo_caption": {
+            "text": "Emblem of Egypt",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Emblem of Egypt"
+              }
+            ]
+          },
+          "jurisdiction": {
+            "text": "🇪🇬 Egypt",
+            "links": [
+              {
+                "text": "🇪🇬",
+                "type": "internal",
+                "page": "egypt"
+              },
+              {
+                "type": "internal",
+                "page": "Egypt"
+              }
+            ]
+          },
+          "headquarters": {
+            "text": "Dokka, Giza",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Giza"
+              }
+            ]
+          },
+          "chief1_name": {
+            "text": "El-Said Marzouq El-Qosair (as of the 22nd of December 2019)"
+          },
+          "chief1_position": {
+            "text": "Minister"
+          },
+          "child1_agency": {
+            "text": "Desert Research Center (DRC)",
+            "links": [
+              {
+                "text": "Desert Research Center (DRC)",
+                "type": "external",
+                "site": "http://www.gndri.net/institution_drc_cairo_egypt_gn.php"
+              }
+            ]
+          },
+          "child2_agency": {
+            "text": "Central Administration of Plant Quarantine"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.ippc.int/en/countries/egypt/",
+          "website": "International Plant Protection Convention",
+          "title": "IPPC",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The Ministry of Agriculture was established on 20 November 1913."
+            },
+            {
+              "text": "In 1996, it was renamed Ministry of Agriculture and Land Reclamation."
+            },
+            {
+              "text": "One of its goals is to address sustainability in agriculture such as better ways to do agricultural irrigation."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2016, an agency from Switzerland was put in charge of inspecting Egypt's imported wheat."
+            },
+            {
+              "text": "Egypt imports the most wheat of any country and around 40% of the average Egyptians' income is spent on food."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.world-grain.com/articles/news_home/World_Grain_News/2017/01/Egypt_names_new_head_of_ag_qua.aspx?ID=%7B55DF4583-04FD-476B-A63C-F2913F5015FB%7D&cck=1",
+          "title": "Egypt names new head of ag quarantine agency",
+          "date": "9 January 2017",
+          "work": "world grain",
+          "last1": "Demaree",
+          "first1": "Holly",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "The evolution of the structure of the Ministry of Agriculture",
+          "url": "http://www.agr-egypt.gov.eg/En_MinHistory.aspx",
+          "work": "Ministry of Agriculture and Land Reclamation",
+          "accessdate": "20 October 2013",
+          "archive-url": "https://web.archive.org/web/20131021044923/http://www.agr-egypt.gov.eg/En_MinHistory.aspx",
+          "archive-date": "21 October 2013",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Ministry News",
+          "url": "http://www.agr-egypt.gov.eg/",
+          "website": "Ministry of Ag official site",
+          "access-date": "2011-03-13",
+          "archive-url": "https://web.archive.org/web/20191223151328/http://www.agr-egypt.gov.eg/",
+          "archive-date": "2019-12-23",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Schroeder",
+          "first1": "Eric",
+          "title": "Egypt names new ag minister",
+          "url": "http://www.world-grain.com/articles/news_home/World_Grain_News/2017/02/Egypt_names_new_ag_minister.aspx?ID={F9B00277-771E-471A-B7F1-075133536EC2}&cck=1",
+          "agency": "World-Grain",
+          "date": "February 15, 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Peter",
+          "first1": "Schwartzstein",
+          "title": "Farming the Sahara",
+          "url": "http://www.takepart.com/feature/2016/01/08/desert-farming-egypt",
+          "website": "Take Part",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Farmland",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "As of 2000, small farms (between 5 and 6 feddans) accounted for most (49.61%) of the agricultural land ownership in Egypt.",
+              "links": [
+                {
+                  "text": "feddans",
+                  "type": "internal",
+                  "page": "feddans"
+                }
+              ]
+            },
+            {
+              "text": "34.72% of farm holdings were of 1 feddan or less."
+            },
+            {
+              "text": "The hope is that with desalination plants, new wells and better infrastructure farmers will be able to grow more wheat."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In April 2018 Egypt purchased wheat from local farmers but not at a price farmers found sustainable."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "author1": "Michel Petit",
+          "author2": "Etienne Montaigne",
+          "author3": "Fatima El Hadad-Gauthier",
+          "title": "Sustainable Agricultural Development: Challenges and Approaches in Southern and Eastern Mediterranean Countries",
+          "url": "https://books.google.com/books?id=BmN1CQAAQBAJ&pg=PA63",
+          "date": "15 May 2015",
+          "publisher": "Springer",
+          "isbn": "978-3-319-17813-4",
+          "pages": "28–",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "title": "Egypt buys 190,000 tonnes of locally-produced wheat - ministr",
+          "url": "https://af.reuters.com/article/egyptNews/idAFL8N1RW45B?feedType=RSS&feedName=egyptNews",
+          "archive-url": "https://web.archive.org/web/20180429155922/https://af.reuters.com/article/egyptNews/idAFL8N1RW45B?feedType=RSS&feedName=egyptNews",
+          "url-status": "dead",
+          "archive-date": "29 April 2018",
+          "accessdate": "29 April 2018",
+          "work": "Reuters",
+          "date": "19 April 2018",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Land reclamation",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "A land reclamation project began in 2015, near the town of Farafra.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Farafra"
+                }
+              ]
+            },
+            {
+              "text": "Large government and private investment and initiatives in farming the Sahara Desert have sometimes ended with little to show.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sahara Desert"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In June 2017, it was announced 1.7 million feddans had been reclaimed and according to the Egyptian Prime Minister, Sherif Ismail, this work would continue.",
+              "links": [
+                {
+                  "text": "feddans",
+                  "type": "internal",
+                  "page": "feddans"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sherif Ismail"
+                }
+              ]
+            },
+            {
+              "text": "It was President Abdel Fattah el-Sisi who, in May 2017, asked for the armed services to begin reclaiming land by demolishing illegally erected structures on land not owned by builders or squatters.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Abdel Fattah el-Sisi"
+                },
+                {
+                  "text": "squatters",
+                  "type": "internal",
+                  "page": "squatters"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last1": "Maloy",
+          "first1": "T.J.",
+          "title": "Agribusiness overview: Egypt’s agriculture is poised for growth",
+          "url": "http://www.marcopolis.net/agribusiness-overview-egypts-agriculture-is-poised-for-growth.htm",
+          "website": "Marcopolis.net",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Sisi inaugurates 1st phase of 1.5 million feddan reclamation project",
+          "url": "http://www.madamasr.com/en/2015/12/31/news/u/sisi-inaugurates-1st-phase-of-1-5-million-feddan-reclamation-project/",
+          "agency": "Mada Masr",
+          "date": "31 December 2015",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Egypt PM says recovered 1.7 million feddans of agricultural land",
+          "url": "http://www.egyptindependent.com/recovered-agricultural-land-egypt/",
+          "work": "Egypt Independent",
+          "date": "6 June 2017",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Ministers",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Ayman Farid Abu-Hadid - from July 2013"
+          },
+          {
+            "text": "Adel Tawfik al-Sayed al-Beltagy"
+          },
+          {
+            "text": "Mahmoud Salah Eddin Hilal"
+          },
+          {
+            "text": "Essam Fayed - from September 2015"
+          },
+          {
+            "text": "Abdul Moneim El-Banna - from February 2017"
+          },
+          {
+            "text": "El-Said Marzouq El-Qosair - from December 2019"
+          }
+        ]
+      ],
+      "references": [
+        {
+          "last1": "Mohamed",
+          "first1": "Ali",
+          "title": "Who Are Egypt's New Ministers?",
+          "url": "http://www.atlanticcouncil.org/blogs/menasource/who-are-egypt-s-new-ministers",
+          "work": "Atlantic Council",
+          "date": "6 March 2015",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Kelani",
+          "first1": "Mahmoud",
+          "title": "وزير الزراعة في الإسماعيلية: \"أنا خادم للفلاحين'' وسنتصدى بحزم للتعدي على الأراضي",
+          "url": "http://www.dostor.org/793282",
+          "work": "Journal Constitution",
+          "date": "19 March 2015",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.madamasr.com/news/%E2%80%8Begypts-new-cabinet-what-changed-and-what-didnt",
+          "title": "Egypt's new Cabinet: What changed and what didn't?",
+          "date": "19 September 2015",
+          "accessdate": "19 September 2015",
+          "work": "Mada Masr",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "2019-12-22",
+          "title": "ننشر السيرة الذاتية للمحاسب السيد القصير وزير الزراعة الجديد",
+          "url": "https://www.youm7.com/story/2019/12/22/ننشر-السيرة-الذاتية-للمحاسب-السيد-القصير-وزير-الزراعة-الجديد/4556314",
+          "access-date": "2021-02-20",
+          "website": "اليوم السابع",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Ayman Farid Abu-Hadid, newly appointed minister of agriculture and land reclamation of Egypt's interim cabinet which was formed on July 16, 2013, speaks to media at his office in Cairo",
+          "url": "http://news.trust.org//item/20130717152604-98ov5/",
+          "agency": "Thomson Reuters Foundation",
+          "date": "17 July 2013",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "El-Sheikh",
+          "first1": "Sarah",
+          "title": "Parliament approves new cabinet reshuffle of nine ministries",
+          "url": "http://www.dailynewsegypt.com/2017/02/14/parliament-approves-new-cabinet-reshuffle-nine-ministries/",
+          "agency": "Daily News Egypt",
+          "date": "14 February 2017",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Egypt"
+          ],
+          "template": "portal"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Cabinet of Egypt",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cabinet of Egypt"
+              }
+            ]
+          },
+          {
+            "text": "List of Ministers of Agriculture and Land Reclamation of Egypt",
+            "links": [
+              {
+                "type": "internal",
+                "page": "List of Ministers of Agriculture and Land Reclamation of Egypt"
+              }
+            ]
+          },
+          {
+            "text": "Egyptian land reform",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Egyptian land reform"
+              }
+            ]
+          },
+          {
+            "text": "New Valley Project",
+            "links": [
+              {
+                "type": "internal",
+                "page": "New Valley Project"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "egyptian ministries"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Ministry of Agriculture and Land Reclamation Official website",
+            "links": [
+              {
+                "text": "Ministry of Agriculture and Land Reclamation Official website",
+                "type": "external",
+                "site": "https://web.archive.org/web/20191223151328/http://www.agr-egypt.gov.eg/"
+              }
+            ]
+          },
+          {
+            "text": "Egyptian International Center of the Agriculture (EICA)",
+            "links": [
+              {
+                "text": "Egyptian International Center of the Agriculture (EICA)",
+                "type": "external",
+                "site": "http://eicaeg.org/home.html"
+              }
+            ]
+          },
+          {
+            "text": "Ministry of Agricultural Foreign Agricultural Relations",
+            "links": [
+              {
+                "text": "Ministry of Agricultural Foreign Agricultural Relations",
+                "type": "external",
+                "site": "http://far-malr.gov.eg/en/"
+              }
+            ]
+          },
+          {
+            "text": "International Center for Agricultural Research in the Dry Areas",
+            "links": [
+              {
+                "text": "International Center for Agricultural Research in the Dry Areas",
+                "type": "external",
+                "site": "https://web.archive.org/web/20081211213141/http://www.icarda.org/"
+              }
+            ]
+          },
+          {
+            "text": "Ministry of Agricultural and Land Reclamation on Facebook",
+            "links": [
+              {
+                "text": "Ministry of Agricultural and Land Reclamation on Facebook",
+                "type": "external",
+                "site": "https://www.facebook.com/%D8%B4%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%89-%D9%84%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D8%B4%D9%85%D9%85-209476022474130/"
+              }
+            ]
+          },
+          {
+            "text": "Egypt's Cabinet Database",
+            "links": [
+              {
+                "text": "Egypt's Cabinet Database",
+                "type": "external",
+                "site": "http://egypt.gov.eg/english/guide/directory.aspx"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

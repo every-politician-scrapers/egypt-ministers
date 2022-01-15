@@ -1,0 +1,839 @@
+{
+  "title": "Central Bank of Egypt",
+  "pageID": 8183823,
+  "categories": [
+    "1898 establishments in Egypt",
+    "Banks of Egypt",
+    "Central banks",
+    "Banks established in 1898"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The Central Bank of Egypt (CBE; البنك المركزي المصري) is the central bank and monetary authority of Arab Republic of Egypt.",
+              "links": [
+                {
+                  "text": "central bank",
+                  "type": "internal",
+                  "page": "central bank"
+                },
+                {
+                  "text": "Arab Republic of Egypt",
+                  "type": "internal",
+                  "page": "Egypt"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "The Central Bank of Egypt",
+                  "CBE"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Central Bank of Egypt",
+          "template": "short description"
+        },
+        {
+          "template": "coord",
+          "lat": 30.05469,
+          "lon": 31.24667
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "1898",
+            "df": "y",
+            "template": "start date",
+            "text": "1898"
+          }
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Central Bank of Egypt"
+          },
+          "native_name": {
+            "text": "البنك المركزي المصري"
+          },
+          "logo": {
+            "text": "Central Bank of Egypt CBE Logo.jpg"
+          },
+          "headquarters": {
+            "text": "Cairo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cairo"
+              }
+            ]
+          },
+          "coordinates": {
+            "text": "30.05469°N, 31.24667°W"
+          },
+          "established": {
+            "text": "1898",
+            "number": 1898
+          },
+          "ownership": {
+            "text": "100% state ownership",
+            "links": [
+              {
+                "text": "state ownership",
+                "type": "internal",
+                "page": "state ownership"
+              }
+            ]
+          },
+          "reserves": {
+            "text": "38 450 million USD"
+          },
+          "executive_title": {
+            "text": "Governor"
+          },
+          "executive": {
+            "text": "Tarek Amer"
+          },
+          "bank_of": {
+            "text": "Egypt",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Egypt"
+              }
+            ]
+          },
+          "currency": {
+            "text": "Egyptian Pound"
+          },
+          "currency_iso": {
+            "text": "EGP"
+          },
+          "borrowing_rate": {
+            "text": "9.75%"
+          },
+          "deposit_rate": {
+            "text": "8.75%"
+          },
+          "website": {
+            "text": "www.cbe.org.eg"
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.cbe.org.eg/en/MonetaryPolicy/Pages/PressRelease.aspx",
+          "title": "Press Release",
+          "date": "2019-03-28",
+          "work": "Central Bank of Egypt",
+          "accessdate": "2019-03-31",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Currency",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Since the trading of gold and silver coins in Egypt and until 1834, there was no one unit of currency to unify the country."
+            },
+            {
+              "text": "In 1834, a decree was realised stating the forging of an Egyptian currency based on the two metals (gold and silver)."
+            },
+            {
+              "text": "In accordance with said decree, the minting of a currency in the shape of gold and silver Riyals began."
+            },
+            {
+              "text": "In 1836, the Egyptian Pound was first introduced and it became open for public use."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The bank floated the Egyptian Pound during the morning of the 13th of November 2016."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Egyptian Pound"
+          ],
+          "template": "main"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.cbe.org.eg/ar/BankNote/Pages/HistoricalOverview.aspx",
+          "title": "نبذة تاريخية",
+          "language": "ar",
+          "publisher": "Central Bank of Egypt",
+          "accessdate": "28 June 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Functions",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Its functions include"
+            }
+          ]
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Regulates banks and the banking system of Egypt;",
+            "links": [
+              {
+                "text": "banks",
+                "type": "internal",
+                "page": "bank"
+              },
+              {
+                "text": "banking system",
+                "type": "internal",
+                "page": "banking system"
+              }
+            ]
+          },
+          {
+            "text": "Formulates and implements Egypt's banking policy, monetary policy and credit policy;",
+            "links": [
+              {
+                "text": "monetary policy",
+                "type": "internal",
+                "page": "monetary policy"
+              },
+              {
+                "text": "credit policy",
+                "type": "internal",
+                "page": "Credit (finance)"
+              }
+            ]
+          },
+          {
+            "text": "Issues banknotes;",
+            "links": [
+              {
+                "text": "banknotes",
+                "type": "internal",
+                "page": "banknotes"
+              }
+            ]
+          },
+          {
+            "text": "Manages gold and the foreign exchange reserves of the Arab Republic of Egypt",
+            "links": [
+              {
+                "text": "gold",
+                "type": "internal",
+                "page": "gold"
+              },
+              {
+                "text": "foreign exchange reserves",
+                "type": "internal",
+                "page": "foreign exchange reserves"
+              }
+            ]
+          },
+          {
+            "text": "Regulates and manages Egypt's presence in the foreign exchange market;",
+            "links": [
+              {
+                "text": "foreign exchange market",
+                "type": "internal",
+                "page": "foreign exchange market"
+              }
+            ]
+          },
+          {
+            "text": "Supervises the national payments system;",
+            "links": [
+              {
+                "text": "payments system",
+                "type": "internal",
+                "page": "payments system"
+              }
+            ]
+          },
+          {
+            "text": "Manages Egypt's public and private external debt.",
+            "links": [
+              {
+                "text": "external debt",
+                "type": "internal",
+                "page": "external debt"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "List of governors",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Following is a list of the Governors of the Central Bank of Egypt:"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Egyptian Central Bank building.jpg",
+          "thumb": "https://en.wikipedia.org/wiki/Special:Redirect/file/Egyptian_Central_Bank_building.jpg?width=300",
+          "url": "https://en.wikipedia.org/wiki/Special:Redirect/file/Egyptian_Central_Bank_building.jpg",
+          "caption": "Central Bank building in Cairo",
+          "links": []
+        }
+      ],
+      "tables": [
+        [
+          {
+            "Name": {
+              "text": "Sir Elwin Palmer",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Elwin Palmer"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "August 1898"
+            },
+            "Left office": {
+              "text": "January 1906"
+            }
+          },
+          {
+            "Name": {
+              "text": "Sir Frederick Rowlatt",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Frederick Rowlatt"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "June 1906"
+            },
+            "Left office": {
+              "text": "February 1921"
+            }
+          },
+          {
+            "Name": {
+              "text": "Sir Bertram Hornsby",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bertram Hornsby"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "March 1921"
+            },
+            "Left office": {
+              "text": "February 1931"
+            }
+          },
+          {
+            "Name": {
+              "text": "Sir Edward Cook",
+              "links": [
+                {
+                  "text": "Edward Cook",
+                  "type": "internal",
+                  "page": "Edward Cook (administrator)"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "March 1931"
+            },
+            "Left office": {
+              "text": "October 1940"
+            }
+          },
+          {
+            "Name": {
+              "text": "Sir Norman Nixon",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Norman Nixon"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "October 1940"
+            },
+            "Left office": {
+              "text": "April 1946"
+            }
+          },
+          {
+            "Name": {
+              "text": "Sir Frederick Leith-Ross",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Frederick Leith-Ross"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "May 1946"
+            },
+            "Left office": {
+              "text": "April 1951"
+            }
+          },
+          {
+            "Name": {
+              "text": "Ahmed Zaki Saad",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ahmed Zaki Saad"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "May 1951"
+            },
+            "Left office": {
+              "text": "April 1952"
+            }
+          },
+          {
+            "Name": {
+              "text": "Mohamed Fekry",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mohamed Fekry"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "May 1952"
+            },
+            "Left office": {
+              "text": "March 1955"
+            }
+          },
+          {
+            "Name": {
+              "text": "Ahmed Zaki Saad",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ahmed Zaki Saad"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "March 1956"
+            },
+            "Left office": {
+              "text": "July 1957"
+            }
+          },
+          {
+            "Name": {
+              "text": "Abd El-Gelil El Emary",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Abd El-Gelil El Emary"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "November 1957"
+            },
+            "Left office": {
+              "text": "March 1960"
+            }
+          },
+          {
+            "Name": {
+              "text": "Abd El-Hakim El Refaie",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Abd El-Hakim El Refaie"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "March 1960"
+            },
+            "Left office": {
+              "text": "March 1964"
+            }
+          },
+          {
+            "Name": {
+              "text": "Ahmed Zendo",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ahmed Zendo"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "March 1964"
+            },
+            "Left office": {
+              "text": "February 1967"
+            }
+          },
+          {
+            "Name": {
+              "text": "Ahmed Nazmy",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ahmed Nazmy"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "February 1967"
+            },
+            "Left office": {
+              "text": "January 1971"
+            }
+          },
+          {
+            "Name": {
+              "text": "Ahmed Zendo",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ahmed Zendo"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "February 1971"
+            },
+            "Left office": {
+              "text": "March 1976"
+            }
+          },
+          {
+            "Name": {
+              "text": "Mohamed Abd El Fatah Ibrahim",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mohamed Abd El Fatah Ibrahim"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "March 1976"
+            },
+            "Left office": {
+              "text": "January 1982"
+            }
+          },
+          {
+            "Name": {
+              "text": "Mohamed Shalaby",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mohamed Shalaby"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "February 1982"
+            },
+            "Left office": {
+              "text": "March 1985"
+            }
+          },
+          {
+            "Name": {
+              "text": "Ali Negm",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ali Negm"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "March 1985"
+            },
+            "Left office": {
+              "text": "November 1986"
+            }
+          },
+          {
+            "Name": {
+              "text": "Mahmoud Hamed",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mahmoud Hamed"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "November 1986"
+            },
+            "Left office": {
+              "text": "October 1993"
+            }
+          },
+          {
+            "Name": {
+              "text": "Ismail Hassan Mohamed",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ismail Hassan Mohamed"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "October 1993"
+            },
+            "Left office": {
+              "text": "October 2001"
+            }
+          },
+          {
+            "Name": {
+              "text": "Mohamed Abul Eyoun",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mohamed Abul Eyoun"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "October 2001"
+            },
+            "Left office": {
+              "text": "November 2003"
+            }
+          },
+          {
+            "Name": {
+              "text": "Farouk El-Okdah",
+              "links": [
+                {
+                  "text": "Farouk El-Okdah",
+                  "type": "internal",
+                  "page": "Farouk El Okdah"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "December 2003"
+            },
+            "Left office": {
+              "text": "February 2013"
+            }
+          },
+          {
+            "Name": {
+              "text": "Hisham Ramez",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hisham Ramez"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "February 2013"
+            },
+            "Left office": {
+              "text": "November 2015"
+            }
+          },
+          {
+            "Name": {
+              "text": "Tarek Hassan Amer",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tarek Hassan Amer"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "November 2015"
+            },
+            "Left office": {
+              "text": "Present"
+            }
+          }
+        ]
+      ],
+      "references": [
+        {
+          "url": "https://www.cbe.org.eg/en/AboutCBE/Pages/CBEGovernors.aspx",
+          "title": "CBE Governors",
+          "website": "www.cbe.org.eg",
+          "language": "en-us",
+          "access-date": "2019-03-31",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Banks"
+          ],
+          "template": "portal"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "List of central banks of Africa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "List of central banks of Africa"
+              }
+            ]
+          },
+          {
+            "text": "Economy of Egypt",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Economy of Egypt"
+              }
+            ]
+          },
+          {
+            "text": "List of central banks",
+            "links": [
+              {
+                "type": "internal",
+                "page": "List of central banks"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "https://www.cbe.org.eg/en/Pages/default.aspx"
+          ],
+          "template": "official website"
+        },
+        {
+          "template": "central banks"
+        },
+        {
+          "display": "title",
+          "template": "coord",
+          "props": {
+            "source": "wikidata"
+          },
+          "lat": 30.0581,
+          "lon": 31.2343
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "egypt-gov-stub"
+        },
+        {
+          "template": "africa-bank-stub"
+        },
+        {
+          "template": "asia-bank-stub"
+        }
+      ]
+    }
+  ]
+}
