@@ -21,7 +21,15 @@
         {
           "sentences": [
             {
-              "text": "Hanafy Ali El-Gebali is a member of the Egyptian parliament of the House of Representatives since October 2020.",
+              "text": "Hanafy Ali El-Gebali is an Egyptian politician.",
+              "formatting": {
+                "bold": [
+                  "Hanafy Ali El-Gebali"
+                ]
+              }
+            },
+            {
+              "text": "He is a member of the Egyptian parliament of the House of Representatives since October 2020.",
               "links": [
                 {
                   "text": "Egyptian parliament",
@@ -33,15 +41,10 @@
                   "type": "internal",
                   "page": "House of Representatives (Egypt)"
                 }
-              ],
-              "formatting": {
-                "bold": [
-                  "Hanafy Ali El-Gebali"
-                ]
-              }
+              ]
             },
             {
-              "text": "He was elected as the Speaker of the House of Representatives on 12 January 2021.",
+              "text": "He was elected as Speaker of the House of Representatives on 12 January 2021.",
               "links": [
                 {
                   "text": "Speaker of the House of Representatives",
@@ -55,56 +58,7 @@
         {
           "sentences": [
             {
-              "text": "El-Gebali previously served as chief justice of the Supreme Constitutional Court."
-            },
-            {
-              "text": "He was born 14 July 1949 in Cairo, Egypt,",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Cairo"
-                },
-                {
-                  "type": "internal",
-                  "page": "Egypt"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He graduated from Cairo University in 1975 and got a post diploma from the Ain Shams University in 1977 in criminal law, he holds a master's PhD of Constitutional law.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Cairo University"
-                },
-                {
-                  "type": "internal",
-                  "page": "Ain Shams University"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He started working in the judicial department and rose to become the deputy Attorney General in 1978 before he was moved down to Constitutional Court at State Council in 2001 as member and became the deputy judge in 2005.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "State Council"
-                }
-              ]
-            },
-            {
-              "text": "He also served as a secretary-general of the Union of Arab Constitutional Courts which was from 2011– 2018."
-            },
-            {
-              "text": "He retired in the judicial board in 2019 and joined the Parliament after serving as the chief of Supreme Constitutional Court in 2019.",
+              "text": "El-Gebali previously served as chief justice of the Supreme Constitutional Court.",
               "links": [
                 {
                   "text": "Supreme Constitutional Court",
@@ -120,10 +74,6 @@
         {
           "description": "Egyptian judge and politician",
           "template": "short description"
-        },
-        {
-          "date": "August 2021",
-          "template": "copy edit"
         },
         {
           "year": "1949",
