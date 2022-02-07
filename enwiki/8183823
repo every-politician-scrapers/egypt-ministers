@@ -834,9 +834,6 @@
         },
         {
           "template": "africa-bank-stub"
-        },
-        {
-          "template": "asia-bank-stub"
         }
       ]
     }
