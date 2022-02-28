@@ -49,6 +49,15 @@
           "lon": 31.24667
         },
         {
+          "display": "title",
+          "template": "coord",
+          "props": {
+            "source": "wikidata"
+          },
+          "lat": 30.0581,
+          "lon": 31.2343
+        },
+        {
           "template": "date",
           "data": {
             "year": "1898",
@@ -127,6 +136,15 @@
           },
           "website": {
             "text": "www.cbe.org.eg"
+          },
+          "predecessor": {
+            "text": "National Bank of Egypt (until 1960)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Bank of Egypt"
+              }
+            ]
           }
         }
       ],
@@ -818,13 +836,10 @@
           "template": "central banks"
         },
         {
-          "display": "title",
-          "template": "coord",
-          "props": {
-            "source": "wikidata"
-          },
-          "lat": 30.0581,
-          "lon": 31.2343
+          "template": "egypt topics"
+        },
+        {
+          "template": "economy of egypt"
         },
         {
           "template": "authority control"
