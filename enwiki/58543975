@@ -1,81 +1,9 @@
 {
-  "title": "Ines Abdel-Dayem",
-  "pageID": 58543975,
-  "categories": [
-    "Living people",
-    "Egyptian musicians",
-    "1962 births",
-    "Women government ministers of Egypt",
-    "21st-century Egyptian women politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Ines Abdel-Dayem is an Egyptian flute player, the former Chairwoman of the Cairo Opera House and the current Minister of Culture of Egypt since January 2018.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Cairo Opera House"
-                },
-                {
-                  "text": "Minister of Culture of Egypt",
-                  "type": "internal",
-                  "page": "Ministry of Culture (Egypt)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Ines Abdel-Dayem"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Egyptian musician and politician",
-          "template": "short description"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Ines Abdel-Dayem"
-          },
-          "image": {
-            "text": "Flute - H.E. Dr. Ines Abdeldayem with Cairo Steps.jpg"
-          },
-          "birth_date": {
-            "text": "1962",
-            "number": 1962
-          },
-          "birth_place": {
-            "text": "Egypt"
-          },
-          "genre": {
-            "text": "Egyptian · Arabic classical"
-          },
-          "occupation": {
-            "text": "Instrumentalist, Minister of Culture of Egypt",
-            "links": [
-              {
-                "text": "Minister of Culture of Egypt",
-                "type": "internal",
-                "page": "Ministry of Culture (Egypt)"
-              }
-            ]
-          },
-          "instrument": {
-            "text": "Flute"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Ines Abdel-Dayem",
+  "image": "Flute - H.E. Dr. Ines Abdeldayem with Cairo Steps.jpg",
+  "birth_date": "1962",
+  "birth_place": "Egypt",
+  "genre": "Egyptian · Arabic classical",
+  "occupation": "Instrumentalist, Minister of Culture of Egypt",
+  "instrument": "Flute"
 }
