@@ -1,128 +1,14 @@
 {
-  "title": "Tarek El-Molla",
-  "pageID": 55771482,
-  "categories": [
-    "1962 births",
-    "Egyptian engineers",
-    "Petroleum ministers of Egypt",
-    "Cairo University alumni",
-    "Living people"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Tarek El-Molla (طارق الملا) (born June 1962) is an Egyptian engineer and current Minister of Petroleum & Mineral Resources.",
-              "formatting": {
-                "bold": [
-                  "Tarek El-Molla"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Ecyptian engineer and politician",
-          "template": "short description"
-        },
-        {
-          "date": "November 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "date": "March 2020",
-          "template": "like resume"
-        },
-        {
-          "birth_year": "1962",
-          "birth_month": "6",
-          "template": "birth year and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Tarek El Molla"
-          },
-          "image": {
-            "text": "Tarek El-Molla.jpg"
-          },
-          "caption": {
-            "text": "Tarek El Molla, 2021"
-          },
-          "title": {
-            "text": "Minister of Petroleum",
-            "links": [
-              {
-                "text": "Minister of Petroleum",
-                "type": "internal",
-                "page": "Ministry of Petroleum (Egypt)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "19 September 2015"
-          },
-          "primeminister": {
-            "text": "Moustafa Madbouly",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Moustafa Madbouly"
-              }
-            ]
-          },
-          "president": {
-            "text": "Abdel Fattah el-Sisi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abdel Fattah el-Sisi"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Sherif Ismail",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sherif Ismail"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "June 1962 (age 60)"
-          },
-          "nationality": {
-            "text": "Egyptian",
-            "links": [
-              {
-                "text": "Egyptian",
-                "type": "internal",
-                "page": "Egyptian people"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Cairo University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cairo University"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Engineer, Minister of Petroleum and Mineral Resources (Egypt)"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Tarek El Molla",
+  "image": "Tarek El-Molla.jpg",
+  "caption": "Tarek El Molla, 2021",
+  "title": "Minister of Petroleum",
+  "term_start": "19 September 2015",
+  "primeminister": "Moustafa Madbouly",
+  "president": "Abdel Fattah el-Sisi",
+  "predecessor": "Sherif Ismail",
+  "birth_date": "June 1962 (age 60)",
+  "nationality": "Egyptian",
+  "alma_mater": "Cairo University",
+  "occupation": "Engineer, Minister of Petroleum and Mineral Resources (Egypt)"
 }

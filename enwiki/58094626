@@ -1,173 +1,21 @@
 {
-  "title": "Mahmoud Tawfik",
-  "pageID": 58094626,
-  "categories": [
-    "1961 births",
-    "Living people",
-    "Interior Ministers of Egypt",
-    "Egyptian police officers"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Mahmoud Tawfik (Arabic: محمود توفيق) (b.",
-              "formatting": {
-                "bold": [
-                  "Mahmoud Tawfik"
-                ]
-              }
-            },
-            {
-              "text": "1961) is an Egyptian politician and police officer."
-            },
-            {
-              "text": "He serves as the Egyptian Minister of Interior.",
-              "links": [
-                {
-                  "text": "Minister of Interior",
-                  "type": "internal",
-                  "page": "Ministry of Interior (Egypt)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Egyptian politician",
-          "template": "short description"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Mahmoud Tawfik"
-          },
-          "native_name": {
-            "text": "محمود توفيق"
-          },
-          "office1": {
-            "text": "Minister of Interior",
-            "links": [
-              {
-                "text": "Minister of Interior",
-                "type": "internal",
-                "page": "Ministry of Interior (Egypt)"
-              }
-            ]
-          },
-          "president1": {
-            "text": "Abdel Fattah el-Sisi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abdel Fattah el-Sisi"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Mostafa Madbouly",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mostafa Madbouly"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "14 June 2018"
-          },
-          "predecessor1": {
-            "text": "Magdy Abdel Ghaffar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Magdy Abdel Ghaffar"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Director of the National Security Agency",
-            "links": [
-              {
-                "text": "National Security Agency",
-                "type": "internal",
-                "page": "National Security Agency (Egypt)"
-              }
-            ]
-          },
-          "president2": {
-            "text": "Abdel Fattah el-Sisi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abdel Fattah el-Sisi"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "29 October 2017"
-          },
-          "term_end2": {
-            "text": "14 June 2018"
-          },
-          "predecessor2": {
-            "text": "Mahmud Sharawi"
-          },
-          "successor2": {
-            "text": "Hamid Abdallah"
-          },
-          "birth_date": {
-            "text": "1961",
-            "number": 1961
-          },
-          "birth_place": {
-            "text": "Giza",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Giza"
-              }
-            ]
-          },
-          "allegiance": {
-            "text": "Egypt",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Egypt"
-              }
-            ]
-          },
-          "branch": {
-            "text": "Egyptian National Police",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Egyptian National Police"
-              }
-            ]
-          },
-          "serviceyears": {
-            "text": "1982–present"
-          },
-          "rank": {
-            "text": "Major General",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Major General"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Mahmoud Tawfik",
+  "native_name": "محمود توفيق",
+  "office1": "Minister of Interior",
+  "president1": "Abdel Fattah el-Sisi",
+  "primeminister1": "Mostafa Madbouly",
+  "term_start1": "14 June 2018",
+  "predecessor1": "Magdy Abdel Ghaffar",
+  "office2": "Director of the National Security Agency",
+  "president2": "Abdel Fattah el-Sisi",
+  "term_start2": "29 October 2017",
+  "term_end2": "14 June 2018",
+  "predecessor2": "Mahmud Sharawi",
+  "successor2": "Hamid Abdallah",
+  "birth_date": "1961",
+  "birth_place": "Giza",
+  "allegiance": "Egypt",
+  "branch": "Egyptian National Police",
+  "serviceyears": "1982–present",
+  "rank": "Major General"
 }

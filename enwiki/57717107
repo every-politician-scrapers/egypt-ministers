@@ -1,100 +1,10 @@
 {
-  "title": "Amr Talaat",
-  "pageID": 57717107,
-  "categories": [
-    "Communications Ministers of Egypt",
-    "Living people",
-    "Year of birth missing (living people)"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Amr Talaat (عمرو طلعت) is the Egyptian Minister of Communications and Information Technology.",
-              "links": [
-                {
-                  "text": "Egyptian",
-                  "type": "internal",
-                  "page": "Egyptians"
-                },
-                {
-                  "text": "Minister of Communications and Information Technology",
-                  "type": "internal",
-                  "page": "Ministry of Communications and Information Technology (Egypt)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Amr Talaat"
-                ]
-              }
-            },
-            {
-              "text": "He is a computer scientist and former business executive."
-            },
-            {
-              "text": "Talaat was appointed on 14 June 2018."
-            }
-          ]
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Amr Talaat"
-          },
-          "image": {
-            "text": "Amr Talaat.jpg"
-          },
-          "office": {
-            "text": "Minister of communications and information technology",
-            "links": [
-              {
-                "text": "Minister of communications and information technology",
-                "type": "internal",
-                "page": "Ministry of Communications and Information Technology (Egypt)"
-              }
-            ]
-          },
-          "president": {
-            "text": "Abdel Fattah el-Sisi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abdel Fattah el-Sisi"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Mostafa Madbouly",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mostafa Madbouly"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Yasser ElKady",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Yasser ElKady"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "14 June 2018"
-          },
-          "website": {
-            "text": "mcit.gov.eg"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Amr Talaat",
+  "image": "Amr Talaat.jpg",
+  "office": "Minister of communications and information technology",
+  "president": "Abdel Fattah el-Sisi",
+  "primeminister": "Mostafa Madbouly",
+  "predecessor": "Yasser ElKady",
+  "term_start": "14 June 2018",
+  "website": "mcit.gov.eg"
 }
