@@ -73,8 +73,8 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q21006661,Second Mohamed Naguib Cabinet,1953-06-18,11,,,1954-01-01,9,1954-02-25,11,,,,,Q21003827,First Mohamed Naguib Cabinet,Q21003796,First Gamal Abdel Nasser Cabinet
 ,Q21003796,First Gamal Abdel Nasser Cabinet,1954-02-25,11,,,1954-03-01,10,1954-02-27,11,,,,,Q21006661,Second Mohamed Naguib Cabinet,Q22935119,Q22935119
 ,Q22935119,Q22935119,1954-03-08,11,,,1954-04-18,11,,,,,,,Q21003796,First Gamal Abdel Nasser Cabinet,Q21003735,Q21003735
-,Q1368402,Qandil Cabinet,2012-08-02,11,,,2013-07-08,11,,,Q1719908,Second Ganzouri Cabinet,Q16639668,Q16639668,Q1719908,Second Ganzouri Cabinet,Q14015402,Beblawi Cabinet
-,Q14015402,Beblawi Cabinet,2013-07-16,11,2013-01-01,9,2014-03-01,11,,,Q16639668,Q16639668,Q15895349,Mahlab Cabinet,Q1368402,Qandil Cabinet,Q15895349,Mahlab Cabinet
+,Q1368402,Hesham Qandil Cabinet,2012-08-02,11,,,2013-07-08,11,,,Q1719908,Second Ganzouri Cabinet,Q16639668,Q16639668,Q1719908,Second Ganzouri Cabinet,Q14015402,Beblawi Cabinet
+,Q14015402,Beblawi Cabinet,2013-07-16,11,2013-01-01,9,2014-03-01,11,,,Q16639668,Q16639668,Q15895349,Mahlab Cabinet,Q1368402,Hesham Qandil Cabinet,Q15895349,Mahlab Cabinet
 ,Q15895349,Mahlab Cabinet,2014-03-01,11,2014-01-01,9,2014-06-08,11,,,Q14015402,Beblawi Cabinet,Q17277771,Second Mahlab Cabinet,Q14015402,Beblawi Cabinet,Q17277771,Second Mahlab Cabinet
 ,Q17277771,Second Mahlab Cabinet,2014-06-17,11,,,2015-03-05,11,,,Q15895349,Mahlab Cabinet,Q20984764,Sherif Ismail Cabinet,Q15895349,Mahlab Cabinet,Q20984764,Sherif Ismail Cabinet
 ,Q20090817,Third Mahlab Cabinet,2015-03-05,11,,,2015-09-19,11,,,Q17277771,Second Mahlab Cabinet,Q20984764,Sherif Ismail Cabinet,Q17277771,Second Mahlab Cabinet,Q20984764,Sherif Ismail Cabinet
