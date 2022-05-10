@@ -19,32 +19,32 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q40371380,Third Mustafa Fahmi Pasha Cabinet,1895-11-12,11,,,1908-11-11,11,,,,,,,Q40371364,Third Nubar Pasha Cabinet,Q40371393,Boutros Ghali Cabinet
 ,Q40371393,Boutros Ghali Cabinet,1908-11-12,11,,,1910-02-21,11,,,,,,,Q40371380,Third Mustafa Fahmi Pasha Cabinet,Q40371410,First Muhammad Said Pasha Cabinet
 ,Q40371410,First Muhammad Said Pasha Cabinet,1910-02-23,11,,,1914-04-05,11,,,,,,,Q40371393,Boutros Ghali Cabinet,Q40371425,First Husayn Rushdi Cabinet
-,Q40371425,First Husayn Rushdi Cabinet,1914-04-05,11,,,1914-12-19,11,,,,,,,Q40371410,First Muhammad Said Pasha Cabinet,Q40371447,Second Husayn Rushdi Cabinet
-,Q40371447,Second Husayn Rushdi Cabinet,1914-12-19,11,,,1917-10-09,11,,,,,,,Q40371425,First Husayn Rushdi Cabinet,Q40371479,Third Husayn Rushdi Cabinet
-,Q40371479,Third Husayn Rushdi Cabinet,1917-10-10,11,,,1919-04-09,11,,,,,,,Q40371447,Second Husayn Rushdi Cabinet,Q40371493,Fourth Husayn Rushdi Cabinet
-,Q40371493,Fourth Husayn Rushdi Cabinet,1919-04-09,11,,,1919-04-22,11,,,,,,,Q40371479,Third Husayn Rushdi Cabinet,Q40371508,Second Muhammad Said Pasha Cabinet
-,Q40371508,Second Muhammad Said Pasha Cabinet,1919-05-20,11,,,1919-11-20,11,,,,,,,Q40371493,Fourth Husayn Rushdi Cabinet,Q40371524,Youssef Wahba Cabinet
-,Q40371524,Youssef Wahba Cabinet,1919-11-20,11,,,1920-05-21,11,,,,,,,Q40371508,Second Muhammad Said Pasha Cabinet,Q41796050,First Muhammad Tawfiq Nasim Pasha Cabinet
-,Q41796050,First Muhammad Tawfiq Nasim Pasha Cabinet,1920-05-21,11,,,1921-03-16,11,,,,,,,Q40371524,Youssef Wahba Cabinet,Q41796052,First ʿAdli Yakan Cabinet
-,Q41796052,First ʿAdli Yakan Cabinet,1921-03-16,11,,,1921-12-24,11,,,,,,,Q41796050,First Muhammad Tawfiq Nasim Pasha Cabinet,Q41796053,First ʿAbd al-Khaliq Tharwat Cabinet
-,Q41796053,First ʿAbd al-Khaliq Tharwat Cabinet,1922-03-01,11,,,1922-11-29,11,,,,,,,Q41796052,First ʿAdli Yakan Cabinet,Q41796054,Second Muhammad Tawfiq Nasim Pasha Cabinet
-,Q41796054,Second Muhammad Tawfiq Nasim Pasha Cabinet,1922-11-30,11,,,1923-02-09,11,,,,,,,Q41796053,First ʿAbd al-Khaliq Tharwat Cabinet,Q41796055,Yahya Ibrahim Pasha Cabinet
-,Q41796055,Yahya Ibrahim Pasha Cabinet,1923-03-15,11,,,1924-01-27,11,,,,,,,Q41796054,Second Muhammad Tawfiq Nasim Pasha Cabinet,Q41796056,Saad Zaghloul Cabinet
-,Q41796056,Saad Zaghloul Cabinet,1924-01-28,11,,,1924-11-24,11,,,,,,,Q41796055,Yahya Ibrahim Pasha Cabinet,Q41796057,First Ahmad Ziwar Cabinet
-,Q41796057,First Ahmad Ziwar Cabinet,1924-11-24,11,,,1925-03-13,11,,,,,,,Q41796056,Saad Zaghloul Cabinet,Q41796058,Second Ahmad Ziwar Cabinet
-,Q41796058,Second Ahmad Ziwar Cabinet,1925-03-13,11,,,1926-06-07,11,,,,,,,Q41796057,First Ahmad Ziwar Cabinet,Q41796059,Second ʿAdli Yakan Cabinet
-,Q41796059,Second ʿAdli Yakan Cabinet,1926-06-07,11,,,1927-04-21,11,,,,,,,Q41796058,Second Ahmad Ziwar Cabinet,Q41796060,Second ʿAbd al-Khaliq Tharwat Cabinet
-,Q41796060,Second ʿAbd al-Khaliq Tharwat Cabinet,1927-04-25,11,,,1928-03-16,11,,,,,,,Q41796059,Second ʿAdli Yakan Cabinet,Q41796061,First Mustafa al-Nahhas Cabinet
-,Q41796061,First Mustafa al-Nahhas Cabinet,1928-03-16,11,,,1928-06-25,11,,,,,,,Q41796060,Second ʿAbd al-Khaliq Tharwat Cabinet,Q41796062,First Muhammad Mahmoud Pasha Cabinet
-,Q41796062,First Muhammad Mahmoud Pasha Cabinet,1928-06-25,11,,,1929-10-02,11,,,,,,,Q41796061,First Mustafa al-Nahhas Cabinet,Q41796063,Third ʿAdli Yakan Cabinet
-,Q41796063,Third ʿAdli Yakan Cabinet,1929-10-03,11,,,1930-01-01,11,,,,,,,Q41796062,First Muhammad Mahmoud Pasha Cabinet,Q41796064,Second Mustafa al-Nahhas Cabinet
-,Q41796064,Second Mustafa al-Nahhas Cabinet,1930-01-01,11,,,1930-06-19,11,,,,,,,Q41796063,Third ʿAdli Yakan Cabinet,Q41796065,First Ismaʿil Sidqi Cabinet
-,Q41796065,First Ismaʿil Sidqi Cabinet,1930-06-19,11,,,1933-01-04,11,,,,,,,Q41796064,Second Mustafa al-Nahhas Cabinet,Q41796066,Second Ismaʿil Sidqi Cabinet
-,Q41796066,Second Ismaʿil Sidqi Cabinet,1933-01-04,11,,,1933-09-27,11,,,,,,,Q41796065,First Ismaʿil Sidqi Cabinet,Q41796067,Abdel Fattah Yahya Ibrahim Pasha Cabinet
-,Q41796067,Abdel Fattah Yahya Ibrahim Pasha Cabinet,1933-09-27,11,,,1934-11-14,11,,,,,,,Q41796066,Second Ismaʿil Sidqi Cabinet,Q41796068,Third Muhammad Tawfiq Nasim Pasha Cabinet
-,Q41796068,Third Muhammad Tawfiq Nasim Pasha Cabinet,1934-11-15,11,,,1936-01-30,11,,,,,,,Q41796067,Abdel Fattah Yahya Ibrahim Pasha Cabinet,Q41796069,First ʿAli Mahir Cabinet
-,Q41796069,First ʿAli Mahir Cabinet,1936-01-30,11,,,1936-05-09,11,,,,,,,Q41796068,Third Muhammad Tawfiq Nasim Pasha Cabinet,Q41796070,Third Mustafa al-Nahhas Cabinet
-,Q41796070,Third Mustafa al-Nahhas Cabinet,1936-05-09,11,,,1937-08-01,11,,,,,,,Q41796069,First ʿAli Mahir Cabinet,Q41796071,Fourth Mustafa al-Nahhas Cabinet
+,Q40371425,First Husayn Rushdi Cabinet,1914-04-05,11,,,1914-12-19,11,,,,,,,Q40371410,First Muhammad Said Pasha Cabinet,Q40371447,2nd Husayn Rushdi Ministry
+,Q40371447,2nd Husayn Rushdi Ministry,1914-12-19,11,,,1917-10-09,11,,,,,,,Q40371425,First Husayn Rushdi Cabinet,Q40371479,Third Husayn Rushdi Ministry
+,Q40371479,Third Husayn Rushdi Ministry,1917-10-10,11,,,1919-04-09,11,,,,,,,Q40371447,2nd Husayn Rushdi Ministry,Q40371493,Fourth Husayn Rushdi Ministry
+,Q40371493,Fourth Husayn Rushdi Ministry,1919-04-09,11,,,1919-04-22,11,,,,,,,Q40371479,Third Husayn Rushdi Ministry,Q40371508,Second Muhammad Said Pasha Ministry
+,Q40371508,Second Muhammad Said Pasha Ministry,1919-05-20,11,,,1919-11-20,11,,,,,,,Q40371493,Fourth Husayn Rushdi Ministry,Q40371524,Youssef Wahba Ministry
+,Q40371524,Youssef Wahba Ministry,1919-11-20,11,,,1920-05-21,11,,,,,,,Q40371508,Second Muhammad Said Pasha Ministry,Q41796050,First Muhammad Tawfiq Nasim Pasha Ministry
+,Q41796050,First Muhammad Tawfiq Nasim Pasha Ministry,1920-05-21,11,,,1921-03-16,11,,,,,,,Q40371524,Youssef Wahba Ministry,Q41796052,First ʿAdli Yakan Ministry
+,Q41796052,First ʿAdli Yakan Ministry,1921-03-16,11,,,1921-12-24,11,,,,,,,Q41796050,First Muhammad Tawfiq Nasim Pasha Ministry,Q41796053,1st Abd al-Khaliq Tharwat Ministry
+,Q41796053,1st Abd al-Khaliq Tharwat Ministry,1922-03-01,11,,,1922-11-29,11,,,,,,,Q41796052,First ʿAdli Yakan Ministry,Q41796054,2nd Muhammad Tawfiq Nasim Pasha Ministry
+,Q41796054,2nd Muhammad Tawfiq Nasim Pasha Ministry,1922-11-30,11,,,1923-02-09,11,,,,,,,Q41796053,1st Abd al-Khaliq Tharwat Ministry,Q41796055,Yahya Ibrahim Pasha Ministry
+,Q41796055,Yahya Ibrahim Pasha Ministry,1923-03-15,11,,,1924-01-27,11,,,,,,,Q41796054,2nd Muhammad Tawfiq Nasim Pasha Ministry,Q41796056,Saad Zaghloul Ministry
+,Q41796056,Saad Zaghloul Ministry,1924-01-28,11,,,1924-11-24,11,,,,,,,Q41796055,Yahya Ibrahim Pasha Ministry,Q41796057,1st Ahmad Ziwar Ministry
+,Q41796057,1st Ahmad Ziwar Ministry,1924-11-24,11,,,1925-03-13,11,,,,,,,Q41796056,Saad Zaghloul Ministry,Q41796058,2nd Ahmad Ziwar Ministry
+,Q41796058,2nd Ahmad Ziwar Ministry,1925-03-13,11,,,1926-06-07,11,,,,,,,Q41796057,1st Ahmad Ziwar Ministry,Q41796059,Second ʿAdli Yakan Ministry
+,Q41796059,Second ʿAdli Yakan Ministry,1926-06-07,11,,,1927-04-21,11,,,,,,,Q41796058,2nd Ahmad Ziwar Ministry,Q41796060,2nd Abd al-Khaliq Tharwat Ministry
+,Q41796060,2nd Abd al-Khaliq Tharwat Ministry,1927-04-25,11,,,1928-03-16,11,,,,,,,Q41796059,Second ʿAdli Yakan Ministry,Q41796061,First Mustafa al-Nahhas Ministry
+,Q41796061,First Mustafa al-Nahhas Ministry,1928-03-16,11,,,1928-06-25,11,,,,,,,Q41796060,2nd Abd al-Khaliq Tharwat Ministry,Q41796062,First Muhammad Mahmoud Pasha Ministry
+,Q41796062,First Muhammad Mahmoud Pasha Ministry,1928-06-25,11,,,1929-10-02,11,,,,,,,Q41796061,First Mustafa al-Nahhas Ministry,Q41796063,Third ʿAdli Yakan Ministry
+,Q41796063,Third ʿAdli Yakan Ministry,1929-10-03,11,,,1930-01-01,11,,,,,,,Q41796062,First Muhammad Mahmoud Pasha Ministry,Q41796064,Second Mustafa al-Nahhas Ministry
+,Q41796064,Second Mustafa al-Nahhas Ministry,1930-01-01,11,,,1930-06-19,11,,,,,,,Q41796063,Third ʿAdli Yakan Ministry,Q41796065,First Ismaʿil Sidqi Ministry
+,Q41796065,First Ismaʿil Sidqi Ministry,1930-06-19,11,,,1933-01-04,11,,,,,,,Q41796064,Second Mustafa al-Nahhas Ministry,Q41796066,Second Ismaʿil Sidqi Ministry
+,Q41796066,Second Ismaʿil Sidqi Ministry,1933-01-04,11,,,1933-09-27,11,,,,,,,Q41796065,First Ismaʿil Sidqi Ministry,Q41796067,Abdel Fattah Yahya Ibrahim Pasha Ministry
+,Q41796067,Abdel Fattah Yahya Ibrahim Pasha Ministry,1933-09-27,11,,,1934-11-14,11,,,,,,,Q41796066,Second Ismaʿil Sidqi Ministry,Q41796068,Third Muhammad Tawfiq Nasim Pasha Ministry
+,Q41796068,Third Muhammad Tawfiq Nasim Pasha Ministry,1934-11-15,11,,,1936-01-30,11,,,,,,,Q41796067,Abdel Fattah Yahya Ibrahim Pasha Ministry,Q41796069,First ʿAli Mahir Ministry
+,Q41796069,First ʿAli Mahir Ministry,1936-01-30,11,,,1936-05-09,11,,,,,,,Q41796068,Third Muhammad Tawfiq Nasim Pasha Ministry,Q41796070,Third Mustafa al-Nahhas Cabinet
+,Q41796070,Third Mustafa al-Nahhas Cabinet,1936-05-09,11,,,1937-08-01,11,,,,,,,Q41796069,First ʿAli Mahir Ministry,Q41796071,Fourth Mustafa al-Nahhas Cabinet
 ,Q41796071,Fourth Mustafa al-Nahhas Cabinet,1937-08-01,11,,,1937-12-30,11,,,,,,,Q41796070,Third Mustafa al-Nahhas Cabinet,Q41796072,Second Muhammad Mahmoud Pasha Cabinet
 ,Q41796072,Second Muhammad Mahmoud Pasha Cabinet,1937-12-30,11,,,1938-04-27,11,,,,,,,Q41796071,Fourth Mustafa al-Nahhas Cabinet,Q41796073,Third Muhammad Mahmoud Pasha Cabinet
 ,Q41796073,Third Muhammad Mahmoud Pasha Cabinet,1938-04-27,11,,,1938-06-24,11,,,,,,,Q41796072,Second Muhammad Mahmoud Pasha Cabinet,Q41796074,Fourth Muhammad Mahmoud Pasha Cabinet
@@ -66,18 +66,17 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q41796090,Seventh Mustafa al-Nahhas Cabinet,1950-01-12,11,,,1952-01-27,11,,,,,,,Q41796089,Fourth Hussein Sirri Pasha Cabinet,Q41796091,Third ʿAli Mahir Cabinet
 ,Q41796091,Third ʿAli Mahir Cabinet,1952-01-27,11,,,1952-03-01,11,,,,,,,Q41796090,Seventh Mustafa al-Nahhas Cabinet,Q41796092,First Ahmad Najib al-Hilali Cabinet
 ,Q41796092,First Ahmad Najib al-Hilali Cabinet,1952-03-01,11,,,1952-07-02,11,,,,,,,Q41796091,Third ʿAli Mahir Cabinet,Q41796093,Fifth Hussein Sirri Pasha Cabinet
-,Q41796093,Fifth Hussein Sirri Pasha Cabinet,1952-07-02,11,,,1952-07-22,11,,,,,,,Q41796092,First Ahmad Najib al-Hilali Cabinet,Q41796094,Second Ahmad Najib al-Hilali Cabinet
-,Q41796094,Second Ahmad Najib al-Hilali Cabinet,1952-07-22,11,,,1952-07-23,11,,,,,,,Q41796093,Fifth Hussein Sirri Pasha Cabinet,Q41796095,Fourth ʿAli Mahir Cabinet
-,Q41796095,Fourth ʿAli Mahir Cabinet,1952-07-24,11,,,1952-09-07,11,,,,,,,Q41796094,Second Ahmad Najib al-Hilali Cabinet,Q21003827,First Mohamed Naguib Cabinet
-,Q21003827,First Mohamed Naguib Cabinet,1952-09-08,11,,,1953-01-01,9,1953-06-18,11,,,,,Q41796095,Fourth ʿAli Mahir Cabinet,Q21006661,Second Mohamed Naguib Cabinet
-,Q21006661,Second Mohamed Naguib Cabinet,1953-06-18,11,,,1954-01-01,9,1954-02-25,11,,,,,Q21003827,First Mohamed Naguib Cabinet,Q21003796,First Gamal Abdel Nasser Cabinet
-,Q21003796,First Gamal Abdel Nasser Cabinet,1954-02-25,11,,,1954-03-01,10,1954-02-27,11,,,,,Q21006661,Second Mohamed Naguib Cabinet,Q22935119,Q22935119
-,Q22935119,Q22935119,1954-03-08,11,,,1954-04-18,11,,,,,,,Q21003796,First Gamal Abdel Nasser Cabinet,Q21003735,Q21003735
-,Q1368402,Hesham Qandil Cabinet,2012-08-02,11,,,2013-07-08,11,,,Q1719908,Second Ganzouri Cabinet,Q16639668,Q16639668,Q1719908,Second Ganzouri Cabinet,Q14015402,Beblawi Cabinet
-,Q14015402,Beblawi Cabinet,2013-07-16,11,2013-01-01,9,2014-03-01,11,,,Q16639668,Q16639668,Q15895349,Mahlab Cabinet,Q1368402,Hesham Qandil Cabinet,Q15895349,Mahlab Cabinet
-,Q15895349,Mahlab Cabinet,2014-03-01,11,2014-01-01,9,2014-06-08,11,,,Q14015402,Beblawi Cabinet,Q17277771,Second Mahlab Cabinet,Q14015402,Beblawi Cabinet,Q17277771,Second Mahlab Cabinet
-,Q17277771,Second Mahlab Cabinet,2014-06-17,11,,,2015-03-05,11,,,Q15895349,Mahlab Cabinet,Q20984764,Sherif Ismail Cabinet,Q15895349,Mahlab Cabinet,Q20984764,Sherif Ismail Cabinet
-,Q20090817,Third Mahlab Cabinet,2015-03-05,11,,,2015-09-19,11,,,Q17277771,Second Mahlab Cabinet,Q20984764,Sherif Ismail Cabinet,Q17277771,Second Mahlab Cabinet,Q20984764,Sherif Ismail Cabinet
-,Q20984764,Sherif Ismail Cabinet,2015-09-19,11,,,2018-06-07,11,,,Q17277771,Second Mahlab Cabinet,Q54869459,Moustafa Madbouly Cabinet,Q20090817,Third Mahlab Cabinet,Q54869459,Moustafa Madbouly Cabinet
-,Q20984764,Sherif Ismail Cabinet,2015-09-19,11,,,2018-06-07,11,,,Q20090817,Third Mahlab Cabinet,Q54869459,Moustafa Madbouly Cabinet,Q20090817,Third Mahlab Cabinet,Q54869459,Moustafa Madbouly Cabinet
-,Q54869459,Moustafa Madbouly Cabinet,2018-06-07,11,,,,,,,Q20984764,Sherif Ismail Cabinet,,,Q20984764,Sherif Ismail Cabinet,,
+,Q41796093,Fifth Hussein Sirri Pasha Cabinet,1952-07-02,11,,,1952-07-22,11,,,,,,,Q41796092,First Ahmad Najib al-Hilali Cabinet,Q41796094,Second Ahmad Najib al-Hilali Ministry
+,Q41796094,Second Ahmad Najib al-Hilali Ministry,1952-07-22,11,,,1952-07-23,11,,,,,,,Q41796093,Fifth Hussein Sirri Pasha Cabinet,Q41796095,Fourth ʿAli Mahir Ministry
+,Q41796095,Fourth ʿAli Mahir Ministry,1952-07-24,11,,,1952-09-07,11,,,,,,,Q41796094,Second Ahmad Najib al-Hilali Ministry,Q21003827,First Mohamed Naguib Ministry
+,Q21003827,First Mohamed Naguib Ministry,1952-09-08,11,,,1953-01-01,9,1953-06-18,11,,,,,Q41796095,Fourth ʿAli Mahir Ministry,Q21006661,Second Mohamed Naguib Ministry
+,Q21006661,Second Mohamed Naguib Ministry,1953-06-18,11,,,1954-01-01,9,1954-02-25,11,,,,,Q21003827,First Mohamed Naguib Ministry,Q21003796,First Gamal Abdel Nasser Ministry
+,Q21003796,First Gamal Abdel Nasser Ministry,1954-02-25,11,,,1954-03-01,10,1954-02-27,11,,,,,Q21006661,Second Mohamed Naguib Ministry,Q22935119,3rd Mohamed naguib Ministry
+,Q22935119,3rd Mohamed naguib Ministry,1954-03-08,11,,,1954-04-18,11,,,,,,,Q21003796,First Gamal Abdel Nasser Ministry,Q21003735,2nd Gamal Abd Elnasser Ministry
+,Q1368402,Hesham Qandil Ministry,2012-08-02,11,,,2013-07-08,11,,,Q1719908,Second Ganzouri Ministry,Q16639668,Q16639668,Q1719908,Second Ganzouri Ministry,Q14015402,Hazem Beblawi Ministry
+,Q14015402,Hazem Beblawi Ministry,2013-07-16,11,2013-01-01,9,2014-03-01,11,,,Q16639668,Q16639668,Q15895349,Ibrathim Mahlab Ministry,Q1368402,Hesham Qandil Ministry,Q15895349,Ibrathim Mahlab Ministry
+,Q15895349,Ibrathim Mahlab Ministry,2014-03-01,11,2014-01-01,9,2014-06-08,11,,,Q14015402,Hazem Beblawi Ministry,Q17277771,2nd Ibrahim Mahlab Ministry,Q14015402,Hazem Beblawi Ministry,Q17277771,2nd Ibrahim Mahlab Ministry
+,Q17277771,2nd Ibrahim Mahlab Ministry,2014-06-17,11,,,2015-03-05,11,,,,,,,Q15895349,Ibrathim Mahlab Ministry,Q20984764,Sherif Ismail Ministry
+,Q20090817,Third Mahlab Ministry,2015-03-05,11,,,2015-09-19,11,,,,,,,Q17277771,2nd Ibrahim Mahlab Ministry,Q20984764,Sherif Ismail Ministry
+,Q20984764,Sherif Ismail Ministry,2015-09-19,11,,,2018-06-07,11,,,,,,,Q20090817,Third Mahlab Ministry,Q54869459,Moustafa Madbouly Ministry
+,Q54869459,Moustafa Madbouly Ministry,2018-06-07,11,,,,,,,,,,,Q20984764,Sherif Ismail Ministry,,
