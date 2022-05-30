@@ -9,7 +9,7 @@ require 'open-uri/cached'
 class OfficeholderList < OfficeholderListBase
   decorator RemoveReferences
   decorator UnspanAllTables
-  decorator WikidataIdsDecorator::Links
+  # decorator WikidataIdsDecorator::Links
 
   def header_column
     'Портрет'
@@ -18,14 +18,6 @@ class OfficeholderList < OfficeholderListBase
   class Officeholder < OfficeholderBase
     def columns
       %w[ordinal photo name _ start end].freeze
-    end
-
-    def tds
-      noko.css('td,th')
-    end
-
-    def empty?
-      noko.css('h2').count > 0
     end
   end
 end
