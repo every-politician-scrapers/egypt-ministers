@@ -9,7 +9,7 @@ require 'open-uri/cached'
 class OfficeholderList < OfficeholderListBase
   decorator RemoveReferences
   decorator UnspanAllTables
-  # decorator WikidataIdsDecorator::Links
+  decorator WikidataIdsDecorator::Links
 
   def header_column
     'Портрет'
