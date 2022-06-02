@@ -1,7 +1,7 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q15618993,President of Egypt,Q79,Q79,,Q774262,1953-06-18,,,,President of Egypt
 Q2669413,Vice President of Egypt,Q79,Q79,,,1958-03-07,,,,Vice-President of Egypt
-Q101070183,Prime Minister and Minister of the Interior,Q79,Q79,,,,,,,
+Q101070183,Prime Minister and Minister of the Interior of Egypt,Q79,Q79,,,,,,,
 Q1571396,Prime Minister of Egypt,Q79,Q79,,Q16151491,1878-08-28,,,,Prime Minister of Egypt
 Q101096064,Deputy Prime Minister,Q79,Q79,,,,,,,
 Q101070188,Agriculture Minister,Q79,Q79,,,,,,,
@@ -23,7 +23,7 @@ Q110558955,Minister of Higher Education and Scientific Research,,Q79,,,,,,,
 Q110559615,Minister of Housing,Q79,Q79,,,,,,,
 Q110559339,Minister of Immigration and Expatriates Affairs,Q79,Q79,,,,,,,
 Q58717287,Minister of Industry and Foreign Trade,Q79,Q79,,,,,,,
-Q101070176,Minister of the Interior,Q79,Q79,,,,,,,
+Q101070176,Minister of the Interior of Egypt,Q79,Q79,,,,,,,
 Q110459030,Minister of International Cooperation,,Q79,,,,,,,
 Q101070174,Minister of Justice,Q79,Q79,,,,,,,
 Q110558850,Minister of Local Development,Q79,Q79,,,,,,,
