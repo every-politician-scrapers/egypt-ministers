@@ -105,7 +105,7 @@
             ]
           },
           "reserves": {
-            "text": "38 450 million USD"
+            "text": "35 500 million USD"
           },
           "executive_title": {
             "text": "Governor"
@@ -129,10 +129,11 @@
             "text": "EGP"
           },
           "borrowing_rate": {
-            "text": "9.75%"
+            "text": "12.25",
+            "number": 12.25
           },
           "deposit_rate": {
-            "text": "8.75%"
+            "text": "11.25%"
           },
           "website": {
             "text": "www.cbe.org.eg"
@@ -337,6 +338,12 @@
             ]
           }
         ]
+      ],
+      "references": [
+        {
+          "date": "June 2022",
+          "template": "citation needed"
+        }
       ]
     },
     {
