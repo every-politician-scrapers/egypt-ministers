@@ -193,7 +193,7 @@
           },
           {
             "no.": {
-              "text": "(2)"
+              "text": ""
             },
             "name": {
               "text": "Anwar Sadat cropped.jpg"
@@ -340,7 +340,7 @@
           },
           {
             "no.": {
-              "text": "(5)"
+              "text": ""
             },
             "name": {
               "text": "No image.png"
@@ -688,10 +688,16 @@
               "text": "Incumbent"
             },
             "col6": {
-              "text": "1 year, 144 days"
+              "text": "1 year, 148 days"
             },
             "political party": {
-              "text": "Independent"
+              "text": "Nation's Future Party",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nation's Future Party"
+                }
+              ]
             }
           }
         ]
