@@ -123,7 +123,7 @@
             ]
           },
           "currency": {
-            "text": "Egyptian Pound"
+            "text": "Egyptian pound"
           },
           "currency_iso": {
             "text": "EGP"
@@ -194,14 +194,14 @@
               "text": "In accordance with said decree, the minting of a currency in the shape of gold and silver Riyals began."
             },
             {
-              "text": "In 1836, the Egyptian Pound was first introduced and it became open for public use."
+              "text": "In 1836, the Egyptian pound was first introduced and it became open for public use."
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "The bank floated the Egyptian Pound during the morning of the 13th of November 2016."
+              "text": "The bank floated the Egyptian pound during the morning of the 13th of November 2016."
             }
           ]
         }
@@ -209,7 +209,7 @@
       "templates": [
         {
           "list": [
-            "Egyptian Pound"
+            "Egyptian pound"
           ],
           "template": "main"
         }
