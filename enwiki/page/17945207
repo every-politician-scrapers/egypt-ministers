@@ -81,16 +81,12 @@
             ]
           },
           "jurisdiction": {
-            "text": "🇪🇬 Egypt",
+            "text": "Government of Egypt",
             "links": [
               {
-                "text": "🇪🇬",
+                "text": "Government of Egypt",
                 "type": "internal",
-                "page": "egypt"
-              },
-              {
-                "type": "internal",
-                "page": "Egypt"
+                "page": "Politics of Egypt"
               }
             ]
           },
