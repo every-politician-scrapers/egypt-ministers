@@ -1,0 +1,95 @@
+{
+  "title": "Ezzat Saad",
+  "pageID": 26576842,
+  "categories": [
+    "Living people",
+    "Ambassadors of Egypt to Russia",
+    "People from Luxor",
+    "1950 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Dr. Ezzat Saad El-Sayed El Buraey (born 28 September 1950) is an Egyptian diplomat, served as ambassador of Egypt in Indonesia from 2000 to 2004, assistant Foreign Minister for Asian affairs from 2004 to 2006, ambassador to the Russian Federation, as well as non-resident ambassador to Belarus, Turkmenistan and Tajikistan from 2006 to 2010.",
+              "links": [
+                {
+                  "text": "diplomat",
+                  "type": "internal",
+                  "page": "diplomat"
+                },
+                {
+                  "text": "ambassador",
+                  "type": "internal",
+                  "page": "Embassy of Egypt in Moscow"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Dr. Ezzat Saad El-Sayed El Buraey"
+                ]
+              }
+            },
+            {
+              "text": "He was also the assistant Foreign Minister for the Americas in 2010."
+            },
+            {
+              "text": "El-Sayed was also the former governor of Luxor from August 2011 to June 2013.",
+              "links": [
+                {
+                  "text": "governor",
+                  "type": "internal",
+                  "page": "governor"
+                },
+                {
+                  "type": "internal",
+                  "page": "Luxor"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Vladimir_Putin_with_Ezzat_Saad_El-Sayed.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Vladimir_Putin_with_Ezzat_Saad_El-Sayed.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Vladimir_Putin_with_Ezzat_Saad_El-Sayed.jpg",
+          "caption": "Saad presenting his credentials to Vladimir Putin in April 2006.",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "title": "Vladimir Putin accepted letters of credential from the new ambassadors of several foreign states.",
+          "location": "The Kremlin, Moscow",
+          "publisher": "Presidential Press and Information Office",
+          "date": "13 April 2006",
+          "url": "http://www.kremlin.ru/eng/sdocs/news.shtml?month=04&day=13&year=2006&Submit.x=9&Submit.y=12&prefix=&value_from=&value_to=&date=&stype=&dayRequired=no&day_enable=true#",
+          "accessdate": "2008-10-07\n }}{{Dead link|date=August 2019 |bot=InternetArchiveBot |fix-attempted=yes |undefined",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "africa-diplomat-stub"
+        },
+        {
+          "template": "egypt-bio-stub"
+        }
+      ]
+    }
+  ]
+}
