@@ -6082,6 +6082,20 @@
             ]
           },
           {
+            "text": "🇷🇸 Serbia: Order of the Republic of Serbia",
+            "links": [
+              {
+                "text": "Serbia",
+                "type": "internal",
+                "page": "serbia"
+              },
+              {
+                "type": "internal",
+                "page": "Order of the Republic of Serbia"
+              }
+            ]
+          },
+          {
             "text": "🇸🇩 Sudan: Collar of the National Order of Sudan",
             "links": [
               {
