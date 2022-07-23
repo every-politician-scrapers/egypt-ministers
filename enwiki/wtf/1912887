@@ -156,10 +156,14 @@
       ],
       "references": [
         {
+          "url": "http://portal.moe.gov.eg/Pages/minister.aspx",
+          "title": "Archived copy",
+          "access-date": "2017-05-11",
+          "archive-date": "2017-05-07",
+          "archive-url": "https://web.archive.org/web/20170507234900/http://portal.moe.gov.eg/Pages/minister.aspx",
+          "url-status": "dead",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "title": "E-Waste Management Forum, Speakers Biography",
