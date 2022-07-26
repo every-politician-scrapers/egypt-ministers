@@ -1,0 +1,32 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Housing and Urban Utilities"
+    },
+    "P580": "2014-03-01",
+    "P1365": {
+      "links": [
+        "Ibrahim Mahlab"
+      ],
+      "stated_as": "Ibrahim Mahlab"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Egypt"
+      ],
+      "stated_as": "Prime Minister of Egypt"
+    },
+    "P580": "2018-06-14",
+    "P1365": {
+      "links": [
+        "Sherif Ismail"
+      ],
+      "stated_as": "Sherif Ismail"
+    }
+  }
+]
