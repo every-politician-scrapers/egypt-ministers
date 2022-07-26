@@ -1,0 +1,27 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of State of Antiquities"
+      ],
+      "stated_as": "Minister of Antiquities"
+    },
+    "P580": "2016-03-23",
+    "P1365": {
+      "links": [
+        "Mamdouh Eldamaty"
+      ],
+      "stated_as": "Mamdouh Eldamaty"
+    },
+    "P582": "2019-12-22"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Tourism and Antiquities (Egypt)"
+      ],
+      "stated_as": "Minister of Tourism and Antiquities"
+    },
+    "P580": "2019-12-22"
+  }
+]

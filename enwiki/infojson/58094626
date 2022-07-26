@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "National Security Agency (Egypt)"
+      ],
+      "stated_as": "Director of the National Security Agency"
+    },
+    "P580": "2017-10-29",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Mahmud Sharawi"
+    },
+    "P582": "2018-06-14",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Hamid Abdallah"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Interior (Egypt)"
+      ],
+      "stated_as": "Minister of Interior"
+    },
+    "P580": "2018-06-14",
+    "P1365": {
+      "links": [
+        "Magdy Abdel Ghaffar"
+      ],
+      "stated_as": "Magdy Abdel Ghaffar"
+    }
+  }
+]

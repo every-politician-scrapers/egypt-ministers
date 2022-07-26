@@ -1,0 +1,33 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Tourism (Egypt)"
+      ],
+      "stated_as": "Minister of Tourism"
+    },
+    "P580": "2018-01-14",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Mohamed Yehia Rashed"
+    },
+    "P582": "2019-12"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Investment and International Cooperation"
+      ],
+      "stated_as": "Minister of International Cooperation"
+    },
+    "P580": "2019-12-22",
+    "P1365": {
+      "links": [
+        "Sahar Nasr"
+      ],
+      "stated_as": "Sahar Nasr"
+    }
+  }
+]

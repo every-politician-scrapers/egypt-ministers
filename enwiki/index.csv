@@ -1,23 +1,23 @@
-pageid,title
-1912887,Tarek Shawki
-10530360,Ali El-Sayed Ali Al-Moselhi
-26576842,Ezzat Saad
-31539248,Sameh Shoukry
-36703624,Abdel Fattah el-Sisi
-43003628,Entissar Amer
-54683062,Mohamed Shaker El-Markabi
-55771482,Tarek El-Molla
-56263221,Khaled Abdel Ghaffar
-57638462,Mostafa Madbouly
-57684025,Mohamed Ahmed Zaki
-57717107,Amr Talaat
-58094626,Mahmoud Tawfik
-58543975,Ines Abdel-Dayem
-59419909,Khaled al-Anani
-60385371,Rania Al-Mashat
-63515026,Mohammed Farid Hegazy
-67440782,Kamel al-Wazir
-68498962,Hanafy El Gebaly
-70231996,Ashraf Sobhy
-70461177,Hala Helmy el-Said
-70707772,Yasmine Fouad
+pageid,title,wikidata,label
+1912887,Tarek Shawki,Q7685778,Tarek Shawki
+10530360,Ali El-Sayed Ali Al-Moselhi,Q28923642,Ali el-Moselhi
+26576842,Ezzat Saad,Q5423458,Ezzat Saad
+31539248,Sameh Shoukry,Q7409268,Sameh Shoukry
+36703624,Abdel Fattah el-Sisi,Q307871,Abdel Fattah el-Sisi
+43003628,Entissar Amer,Q17198126,Entissar Amer
+54683062,Mohamed Shaker El-Markabi,Q37530705,Mohamed Shaker El-Markabi
+55771482,Tarek El-Molla,Q22688588,Tarek El-Molla
+56263221,Khaled Abdel Ghaffar,Q47161155,Khaled Abdel Ghaffar
+57638462,Mostafa Madbouly,Q54901515,Moustafa Madbouly
+57684025,Mohamed Ahmed Zaki,Q55196900,Mohamed Ahmed Zaki
+57717107,Amr Talaat,Q55096335,Amr Talaat
+58094626,Mahmoud Tawfik,Q55196920,Mahmoud Tawfik
+58543975,Ines Abdel-Dayem,Q56690584,Ines Abdel-Dayem
+59419909,Khaled al-Anani,Q28715049,Khaled El-Enany
+60385371,Rania Al-Mashat,Q30081060,Rania Al-Mashat
+63515026,Mohammed Farid Hegazy,Q20423204,Mohammed Farid Hegazy
+67440782,Kamel al-Wazir,Q23907945,Kamel El-Wazir
+68498962,Hanafy El Gebaly,Q108128558,Hanafy El Gebaly
+70231996,Ashraf Sobhy,Q60836776,Ashraf Sobhy
+70461177,Hala Helmy el-Said,Q20425623,Hala Helmy Al-Saeed
+70707772,Yasmine Fouad,Q60564408,Yasmine Fouad

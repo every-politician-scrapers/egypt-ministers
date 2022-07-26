@@ -1,0 +1,43 @@
+[
+  {
+    "office": {
+      "links": [
+        "Egyptian Paratroopers"
+      ],
+      "stated_as": "Commander of the Egyptian Paratroopers"
+    },
+    "P580": "2008-12-18",
+    "P582": "2012-08-11"
+  },
+  {
+    "office": {
+      "links": [
+        "Republican Guard (Egypt)"
+      ],
+      "stated_as": "Commander of the Republican Guard"
+    },
+    "P580": "2012-08-12",
+    "P1365": {
+      "links": [
+        "Naguib Abdel-Salam"
+      ],
+      "stated_as": "Naguib Abdel-Salam"
+    },
+    "P582": "2018-06-14"
+  },
+  {
+    "office": {
+      "links": [
+        "List of Ministers of Defence of Egypt"
+      ],
+      "stated_as": "46th Minister of Defence"
+    },
+    "P580": "2018-06-14",
+    "P1365": {
+      "links": [
+        "Sedki Sobhy"
+      ],
+      "stated_as": "Sedki Sobhy"
+    }
+  }
+]
