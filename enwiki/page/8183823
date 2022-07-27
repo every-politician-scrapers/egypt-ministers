@@ -440,13 +440,7 @@
           },
           {
             "Name": {
-              "text": "Sir Norman Nixon",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Norman Nixon"
-                }
-              ]
+              "text": "Sir Norman Nixon"
             },
             "Took office": {
               "text": "October 1940"
