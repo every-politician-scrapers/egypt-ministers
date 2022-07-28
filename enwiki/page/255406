@@ -693,11 +693,6 @@
           "sentences": []
         }
       ],
-      "templates": [
-        {
-          "template": "أيقونة إنجليزية"
-        }
-      ],
       "lists": [
         [
           {
@@ -707,16 +702,6 @@
                 "text": "البنك المركزي المصري",
                 "type": "external",
                 "site": "http://www.cbe.org.eg/"
-              }
-            ]
-          },
-          {
-            "text": "آخر أسعار صرف الجنيه المصري في بنوك مصر محدثة باستمرار Latest EGP exchange rates in the banks of Egypt, Frequently updated",
-            "links": [
-              {
-                "text": "آخر أسعار صرف الجنيه المصري في بنوك مصر محدثة باستمرار",
-                "type": "external",
-                "site": "https://www.egpforex.com/index.htm"
               }
             ]
           }
