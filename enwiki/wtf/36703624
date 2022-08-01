@@ -3714,7 +3714,21 @@
     },
     {
       "title": "Foreign policy",
-      "depth": 1
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "images": [
+        {
+          "file": "File:President_Joe_Biden_and_President_Abdel_Fattah_el-Sisi.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/President_Joe_Biden_and_President_Abdel_Fattah_el-Sisi.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/President_Joe_Biden_and_President_Abdel_Fattah_el-Sisi.jpg",
+          "caption": "Sisi with U.S. President Joe Biden at the GCC+3 summit in Jeddah, Saudi Arabia, 16 July 2022",
+          "links": []
+        }
+      ]
     },
     {
       "title": "Africa",
