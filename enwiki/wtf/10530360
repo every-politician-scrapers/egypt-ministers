@@ -1,0 +1,100 @@
+{
+  "title": "Ali El-Sayed Ali Al-Moselhi",
+  "pageID": 10530360,
+  "categories": [
+    "Members of the House of Representatives (Egypt)",
+    "Living people",
+    "Year of birth missing (living people)",
+    "Supply and internal trade ministers of Egypt",
+    "Social affairs ministers of Egypt"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ali El-Sayed Ali El-Moselhi is the Egyptian minister of Social Solidarity in the cabinet of Dr. Ahmed Nazif and a member of the Parliament, the People's Assembly, for the constituency Abu Kabeer, Ash Sharqiyah Governorate.",
+              "links": [
+                {
+                  "text": "Egyptian",
+                  "type": "internal",
+                  "page": "Egypt"
+                },
+                {
+                  "text": "minister",
+                  "type": "internal",
+                  "page": "political minister"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ahmed Nazif"
+                },
+                {
+                  "text": "People's Assembly",
+                  "type": "internal",
+                  "page": "People's Assembly of Egypt"
+                },
+                {
+                  "type": "internal",
+                  "page": "Abu Kabeer"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ash Sharqiyah Governorate"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ali El-Sayed Ali El-Moselhi"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was the directing manager of \"Standardata\" (a software company based in Roxy, Heliopolis, Cairo)."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "December 2008",
+          "template": "blp sources"
+        }
+      ],
+      "infoboxes": [
+        {}
+      ],
+      "references": [
+        {
+          "url": "http://www.mss.gov.eg/MSS/ar-EG/Minister+Corner/Minister+CV.htm",
+          "title": "MSS profile",
+          "access-date": "2010-09-06",
+          "archive-url": "https://web.archive.org/web/20091013135813/http://www.mss.gov.eg/MSS/ar-EG/Minister+Corner/Minister+CV.htm",
+          "archive-date": "2009-10-13",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "egypt-politician-stub"
+        }
+      ]
+    }
+  ]
+}
